@@ -1,0 +1,1132 @@
+[{
+  "_id": {
+    "$oid": "68c0d6928acc6e29e71dc87c"
+  },
+  "name": " Whiskas",
+  "price": 200000,
+  "discount": {
+    "$oid": "68c0de1cae24435f34b3c6af"
+  },
+  "quantity": 111,
+  "is_featured": false,
+  "category_id": {
+    "$oid": "68c0f6ba309ccdb6b3034907"
+  },
+  "rating": 5,
+  "status": "active",
+  "description": "sdsad",
+  "weight": 2,
+  "unit": "sds",
+  "thumbnail": "1763649702649-hieuunganh-com-5e9066b48c276.webp",
+  "images": [
+    "1763649702668-hieuunganh-com-5e9066b48c276.webp",
+    "1763649702686-top-10-thuc-an-hat-cho-meo-tot-nhat-hien-nay-202104231501053355.jpg"
+  ],
+  "sold_count": 16,
+  "manufacture_date": {
+    "$date": "2025-09-09T00:00:00.000Z"
+  },
+  "expiry_date": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "ingredients": "adsad",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T01:38:26.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T02:17:28.781Z"
+  },
+  "__v": 71,
+  "discounts": [
+    {
+      "$oid": "68c0de1cae24435f34b3c6af"
+    }
+  ],
+  "remainingStock": 9,
+  "soldQuantity": 3,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-13T02:24:20.310Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0ce2629732d22f3eccf2c",
+    "deletedAt": {
+      "$date": "2025-11-20T17:17:51.268Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:24:20.318Z"
+      },
+      "_id": {
+        "$oid": "68c4d5d416d93602f7cd56a2"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:43:12.059Z"
+      },
+      "_id": {
+        "$oid": "68c4da40431052df785357d7"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:43:12.696Z"
+      },
+      "_id": {
+        "$oid": "68c4da40431052df785357de"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:55.386Z"
+      },
+      "_id": {
+        "$oid": "68c4ecef9382d631af7e222d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:56.343Z"
+      },
+      "_id": {
+        "$oid": "68c4ecf09382d631af7e2237"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:57.984Z"
+      },
+      "_id": {
+        "$oid": "68c4ecf19382d631af7e2242"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:58.826Z"
+      },
+      "_id": {
+        "$oid": "68c4ecf29382d631af7e224e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:03:12.666Z"
+      },
+      "_id": {
+        "$oid": "68c4ed009382d631af7e229f"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:03:19.166Z"
+      },
+      "_id": {
+        "$oid": "68c4ed079382d631af7e22c8"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:03:23.365Z"
+      },
+      "_id": {
+        "$oid": "68c4ed0b9382d631af7e22fa"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:05:20.941Z"
+      },
+      "_id": {
+        "$oid": "68c4ed809382d631af7e2497"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:05:22.495Z"
+      },
+      "_id": {
+        "$oid": "68c4ed829382d631af7e24a8"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:07:28.707Z"
+      },
+      "_id": {
+        "$oid": "68c4ee009382d631af7e273b"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:07:30.604Z"
+      },
+      "_id": {
+        "$oid": "68c4ee029382d631af7e274e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:16:37.921Z"
+      },
+      "_id": {
+        "$oid": "68c4f02532c74086e5915cd3"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:16:38.516Z"
+      },
+      "_id": {
+        "$oid": "68c4f02632c74086e5915cea"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:18:39.847Z"
+      },
+      "_id": {
+        "$oid": "68c4f09f6bab67ad968c62f9"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:18:39.978Z"
+      },
+      "_id": {
+        "$oid": "68c4f09f6bab67ad968c6312"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:21.930Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f1e287809dbb22e791"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:26.186Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f6e287809dbb22e7ee"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:26.248Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f6e287809dbb22e827"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:47:55.505Z"
+      },
+      "_id": {
+        "$oid": "68c62cdb41fe0264566477ef"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:47:56.121Z"
+      },
+      "_id": {
+        "$oid": "68c62cdc41fe02645664780d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:47:57.181Z"
+      },
+      "_id": {
+        "$oid": "68c62cdd41fe02645664782c"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:48:00.313Z"
+      },
+      "_id": {
+        "$oid": "68c62ce041fe026456647939"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:07.185Z"
+      },
+      "_id": {
+        "$oid": "68c62dd741fe026456647b6c"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:07.656Z"
+      },
+      "_id": {
+        "$oid": "68c62dd741fe026456647b8e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:07.757Z"
+      },
+      "_id": {
+        "$oid": "68c62dd741fe026456647bb1"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:13.029Z"
+      },
+      "_id": {
+        "$oid": "68c62ddd41fe026456647bdb"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T05:00:28.398Z"
+      },
+      "_id": {
+        "$oid": "68c64bec9e360924aebb93db"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T05:00:28.472Z"
+      },
+      "_id": {
+        "$oid": "68c64bec9e360924aebb93fa"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T05:00:29.001Z"
+      },
+      "_id": {
+        "$oid": "68c64bed9e360924aebb9421"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T05:00:29.113Z"
+      },
+      "_id": {
+        "$oid": "68c64bed9e360924aebb9449"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-13T09:53:49.774Z"
+      },
+      "_id": {
+        "$oid": "68eccc2da2e91f5838fa53be"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-27T04:56:55.635Z"
+      },
+      "_id": {
+        "$oid": "68fefb974df03dc7ae7424e0"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T05:03:07.221Z"
+      },
+      "_id": {
+        "$oid": "69004e8ba38aacd29c1c6585"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T05:48:33.978Z"
+      },
+      "_id": {
+        "$oid": "6900593130b218e06c455c03"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T05:53:01.164Z"
+      },
+      "_id": {
+        "$oid": "69005a3dd15ad5524003dcfa"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T05:53:02.279Z"
+      },
+      "_id": {
+        "$oid": "69005a3ed15ad5524003dd28"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T07:22:51.419Z"
+      },
+      "_id": {
+        "$oid": "69006f4bbc3257c1f178ec53"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-28T07:25:26.841Z"
+      },
+      "_id": {
+        "$oid": "69006fe6bc3257c1f178f34a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-05T02:37:41.318Z"
+      },
+      "_id": {
+        "$oid": "690ab875ecac1777a06b2920"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-05T02:37:42.024Z"
+      },
+      "_id": {
+        "$oid": "690ab876ecac1777a06b2954"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:35:14.007Z"
+      },
+      "_id": {
+        "$oid": "69116b82ae4346663b22c5f8"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-20T03:05:04.972Z"
+      },
+      "_id": {
+        "$oid": "691e8560ede398cc8d863eb3"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:37:43.065Z"
+      },
+      "_id": {
+        "$oid": "691ee167929c72738fba043d"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:18.444Z"
+      },
+      "_id": {
+        "$oid": "691ee32e929c72738fba1158"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:19.171Z"
+      },
+      "_id": {
+        "$oid": "691ee32f929c72738fba1190"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T14:41:42.713Z"
+      },
+      "_id": {
+        "$oid": "691f28a6228b553029c8105a"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:22:19.242Z"
+      },
+      "_id": {
+        "$oid": "691f322bfebec550f9fb7607"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:22:19.776Z"
+      },
+      "_id": {
+        "$oid": "691f322bfebec550f9fb7642"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T16:21:32.880Z"
+      },
+      "_id": {
+        "$oid": "691f400c0876ef2f9a86bff4"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:05:38.323Z"
+      },
+      "_id": {
+        "$oid": "691f4a6299f3f44b83b4a44d"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:05:52.369Z"
+      },
+      "_id": {
+        "$oid": "691f4a7099f3f44b83b4a873"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:09:51.389Z"
+      },
+      "_id": {
+        "$oid": "691f4b5f9a7fa8a07945c283"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:09:56.572Z"
+      },
+      "_id": {
+        "$oid": "691f4b649a7fa8a07945c320"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:10:01.264Z"
+      },
+      "_id": {
+        "$oid": "691f4b699a7fa8a07945c3c7"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T17:28:16.718Z"
+      },
+      "_id": {
+        "$oid": "691f4fb0dd3db1c341362331"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T14:02:46.838Z"
+      },
+      "_id": {
+        "$oid": "6920710651040e398db99480"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:33:02.923Z"
+      },
+      "_id": {
+        "$oid": "6920781ef1a0b96fe0e2fcd5"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:34:05.623Z"
+      },
+      "_id": {
+        "$oid": "6920785df1a0b96fe0e30783"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-22T08:51:22.400Z"
+      },
+      "_id": {
+        "$oid": "6921798a080520dfc67c7363"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-22T08:51:53.095Z"
+      },
+      "_id": {
+        "$oid": "692179a9080520dfc67c7711"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:42:54.040Z"
+      },
+      "_id": {
+        "$oid": "6923014ec706f41b0e3efab1"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:43:24.572Z"
+      },
+      "_id": {
+        "$oid": "6923016cc706f41b0e3efdc0"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:47:58.102Z"
+      },
+      "_id": {
+        "$oid": "6923027e0319f3b136962f0f"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-24T02:16:43.945Z"
+      },
+      "_id": {
+        "$oid": "6923c00b0888a56259a22f4e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-24T02:16:44.005Z"
+      },
+      "_id": {
+        "$oid": "6923c00c0888a56259a22fa0"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-24T02:16:44.327Z"
+      },
+      "_id": {
+        "$oid": "6923c00c0888a56259a22ff3"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-24T02:17:15.207Z"
+      },
+      "_id": {
+        "$oid": "6923c02b0888a56259a23055"
+      }
+    }
+  ],
+  "isNew": false,
+  "shipping_id": {
+    "$oid": "68ecc2bdc7a41cffff4f3112"
+  },
+  "sold_count_last_month": 0,
+  "slug": "whiskas",
+  "rated_by": [
+    {
+      "$oid": "68c15682f87490374370ee02"
+    },
+    {
+      "$oid": "68c6982a32da1f8929167d61"
+    }
+  ],
+  "reviewCount": 2,
+  "discount_id": null
+},
+{
+  "_id": {
+    "$oid": "68c16b56861017b39244bd1f"
+  },
+  "name": "Hạt Zoi Dog thức ăn cho chó 1kg",
+  "price": 35000,
+  "discounts": [
+    {
+      "$oid": "68c0de1cae24435f34b3c6af"
+    }
+  ],
+  "quantity": 11,
+  "is_featured": true,
+  "category_id": {
+    "$oid": "68c0f6ba309ccdb6b3034907"
+  },
+  "rating": 5,
+  "status": "active",
+  "description": "sdsa",
+  "weight": 23,
+  "unit": "kg",
+  "thumbnail": "1763649787249-ed5762ce1fbd8e9d32583444bf803780.png_720x720q80.png",
+  "images": [
+    "1763649787271-ezgif-5-1e317ae8fd-800x800.jpg",
+    "1763649787278-kiotviet_930091d63d365f5b4c3ace14c2807446.jpg"
+  ],
+  "sold_count": 11,
+  "manufacture_date": {
+    "$date": "2025-09-10T00:00:00.000Z"
+  },
+  "expiry_date": {
+    "$date": "2025-09-24T00:00:00.000Z"
+  },
+  "ingredients": "ádsa",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T12:13:10.493Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T02:17:28.791Z"
+  },
+  "slug": "hat-zoi-dog-thuc-an-cho-cho-1kg",
+  "__v": 26,
+  "remainingStock": 11,
+  "soldQuantity": 1,
+  "deletedBy": {
+    "account_id": "68c0ce2629732d22f3eccf2c",
+    "deletedAt": {
+      "$date": "2025-11-20T17:17:49.191Z"
+    }
+  },
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-13T02:25:19.097Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:43:13.618Z"
+      },
+      "_id": {
+        "$oid": "68c4da41431052df785357e3"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:43:15.177Z"
+      },
+      "_id": {
+        "$oid": "68c4da43431052df785357e9"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:03:19.173Z"
+      },
+      "_id": {
+        "$oid": "68c4ed079382d631af7e22cc"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:03:23.371Z"
+      },
+      "_id": {
+        "$oid": "68c4ed0b9382d631af7e22ff"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:05:39.094Z"
+      },
+      "_id": {
+        "$oid": "68c4ed939382d631af7e24b2"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:05:39.819Z"
+      },
+      "_id": {
+        "$oid": "68c4ed939382d631af7e24bd"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:21.938Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f1e287809dbb22e799"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:26.194Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f6e287809dbb22e7f7"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:41:26.256Z"
+      },
+      "_id": {
+        "$oid": "68c4f5f6e287809dbb22e835"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:13.048Z"
+      },
+      "_id": {
+        "$oid": "68c62ddd41fe026456647bec"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T02:52:43.906Z"
+      },
+      "_id": {
+        "$oid": "68c62dfb41fe026456647cf8"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-13T09:22:57.898Z"
+      },
+      "_id": {
+        "$oid": "68ecc4f1fd86bf7b924ba5a8"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-13T09:25:15.412Z"
+      },
+      "_id": {
+        "$oid": "68ecc57bfd86bf7b924bacd5"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-10-13T09:53:54.549Z"
+      },
+      "_id": {
+        "$oid": "68eccc32a2e91f5838fa541a"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:19.648Z"
+      },
+      "_id": {
+        "$oid": "691ee32f929c72738fba11a7"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:20.362Z"
+      },
+      "_id": {
+        "$oid": "691ee330929c72738fba11bf"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T14:43:07.322Z"
+      },
+      "_id": {
+        "$oid": "691f28fb228b553029c810dd"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:41:10.997Z"
+      },
+      "_id": {
+        "$oid": "691f3696f0951e1b0337515a"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:41:20.274Z"
+      },
+      "_id": {
+        "$oid": "691f36a0f0951e1b033751f0"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T10:51:58.771Z"
+      },
+      "_id": {
+        "$oid": "6922e74e352a14430be7e38f"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T10:52:04.042Z"
+      },
+      "_id": {
+        "$oid": "6922e754352a14430be7e3ad"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:25:21.803Z"
+      },
+      "_id": {
+        "$oid": "6922fd31c706f41b0e3ed1aa"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:51:52.222Z"
+      },
+      "_id": {
+        "$oid": "692303680319f3b1369634ab"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T12:51:52.564Z"
+      },
+      "_id": {
+        "$oid": "692303680319f3b1369634cc"
+      }
+    }
+  ],
+  "isNew": false,
+  "shipping_id": {
+    "$oid": "68eccc1da2e91f5838fa515b"
+  },
+  "sold_count_last_month": 0,
+  "discount_id": null,
+  "rated_by": [
+    {
+      "$oid": "68c6982a32da1f8929167d61"
+    }
+  ],
+  "reviewCount": 1
+},
+{
+  "_id": {
+    "$oid": "690ab89eecac1777a06b295e"
+  },
+  "name": "Thịt hộp cho mèo Tuna White Meat(Ca Ngu Trang & Thit Ga)",
+  "price": 100000,
+  "quantity": 3,
+  "remainingStock": 0,
+  "soldQuantity": 3,
+  "is_featured": true,
+  "shipping_id": {
+    "$oid": "68ecc2bdc7a41cffff4f3112"
+  },
+  "category_id": {
+    "$oid": "68c0f768309ccdb6b3034946"
+  },
+  "isNew": false,
+  "rating": 5,
+  "status": "active",
+  "description": "fdfs",
+  "weight": 20,
+  "unit": "g",
+  "thumbnail": "1763649893373-Meowow-80g-Tuna-Chicken.jpg",
+  "images": [
+    "1762310302340-Generated Image October 24, 2025 - 2_50PM.png"
+  ],
+  "sold_count": 3,
+  "sold_count_last_month": 0,
+  "manufacture_date": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "expiry_date": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "ingredients": "sds",
+  "createdBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "createdAt": {
+      "$date": "2025-11-05T02:38:22.388Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0ce2629732d22f3eccf2c",
+    "deletedAt": {
+      "$date": "2025-11-20T17:17:53.980Z"
+    }
+  },
+  "deleted": false,
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-05T02:39:06.319Z"
+      },
+      "_id": {
+        "$oid": "690ab8caecac1777a06b2a46"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:20.910Z"
+      },
+      "_id": {
+        "$oid": "691ee330929c72738fba11c9"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:45:21.552Z"
+      },
+      "_id": {
+        "$oid": "691ee331929c72738fba11d4"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T10:01:12.687Z"
+      },
+      "_id": {
+        "$oid": "691ee6e804a396b770f3cbd4"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T14:44:53.395Z"
+      },
+      "_id": {
+        "$oid": "691f2965228b553029c81161"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T14:46:42.210Z"
+      },
+      "_id": {
+        "$oid": "691f29d2228b553029c81738"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:26:23.338Z"
+      },
+      "_id": {
+        "$oid": "691f331ffebec550f9fb9c24"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:26:38.793Z"
+      },
+      "_id": {
+        "$oid": "691f332efebec550f9fb9cd5"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2025-11-24T02:17:28.797Z"
+  },
+  "slug": "thit-hop-cho-meo-tuna-white-meat-ca-ngu-trang-and-thit-ga",
+  "__v": 8,
+  "discount_id": null,
+  "rated_by": [
+    {
+      "$oid": "68c15682f87490374370ee02"
+    },
+    {
+      "$oid": "68c6982a32da1f8929167d61"
+    }
+  ],
+  "reviewCount": 2
+}]

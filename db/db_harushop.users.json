@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "fullName": "Pham Xuan Hau",
+  "email": "haux4212@gmail.com",
+  "phone": "0379912993",
+  "password": "$2b$10$gy1J//thXH1iOBswhUU51eBxUp1tLoP5zQU3LBpf39pURe7FyC3Ny",
+  "deleted": false,
+  "customer": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-10T10:44:18.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T03:20:03.079Z"
+  },
+  "__v": 12,
+  "tokenUser": "c3589a8cfab875e40d0038a60aa7eb60723db9608bc4e896",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-13T04:34:06.687Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-13T04:34:06.687Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:34:06.687Z"
+      },
+      "_id": {
+        "$oid": "68c4f43ef821a759f9027ade"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:34:07.185Z"
+      },
+      "_id": {
+        "$oid": "68c4f43ff821a759f9027aec"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:34:07.249Z"
+      },
+      "_id": {
+        "$oid": "68c4f43ff821a759f9027afb"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:34:09.291Z"
+      },
+      "_id": {
+        "$oid": "68c4f441f821a759f9027b0b"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:48:28.622Z"
+      },
+      "_id": {
+        "$oid": "691ffd2cdacd1cdd14b7c60b"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:48:28.646Z"
+      },
+      "_id": {
+        "$oid": "691ffd2cdacd1cdd14b7c621"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:48:29.162Z"
+      },
+      "_id": {
+        "$oid": "691ffd2ddacd1cdd14b7c638"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:48:34.647Z"
+      },
+      "_id": {
+        "$oid": "691ffd32dacd1cdd14b7c650"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:45:18.619Z"
+      },
+      "_id": {
+        "$oid": "692050cee0548acdb2720509"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:45:18.676Z"
+      },
+      "_id": {
+        "$oid": "692050cee0548acdb272052d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:45:19.128Z"
+      },
+      "_id": {
+        "$oid": "692050cfe0548acdb2720552"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:45:19.690Z"
+      },
+      "_id": {
+        "$oid": "692050cfe0548acdb2720578"
+      }
+    }
+  ],
+  "avatar": "avatar-1761574007514-709585179.png"
+},
+{
+  "_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "fullName": "Pham Xuan Sơn",
+  "email": "haux421@gmail.com",
+  "phone": "0379912328",
+  "password": "$2b$10$xOf1hhUvtGbabTWppU5qDeE5pTHOUJebtKGapb6vDNcdQjgil1ExS",
+  "deleted": false,
+  "customer": [],
+  "tokenUser": "eb56d822ace7d00cf0366d4234b3fd820bdd5d686fa172f5",
+  "status": "active",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-14T10:25:46.326Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-14T10:25:46.326Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-09-14T10:25:46.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T02:24:45.462Z"
+  },
+  "__v": 0,
+  "avatar": "avatar-1763629891847-256429001.png"
+},
+{
+  "_id": {
+    "$oid": "691ffadbdacd1cdd14b7a464"
+  },
+  "fullName": "pham xuan son",
+  "email": "haux42121@gmail.com",
+  "phone": "0379912321",
+  "password": "$2b$10$aQ/pt6Jd.mEX.JGqpNMHoO8PxT2VULtoImd1JOAPSQnMznIFUDMNW",
+  "deleted": false,
+  "tokenUser": null,
+  "status": "active",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T05:38:35.644Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "deletedAt": {
+      "$date": "2025-11-21T05:48:38.294Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:48:40.270Z"
+      },
+      "_id": {
+        "$oid": "691ffd38dacd1cdd14b7c688"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-21T05:38:35.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T05:48:40.271Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6920347bc9f0905092720b7f"
+  },
+  "fullName": "Nguyễn Văn Thinh",
+  "email": "thinh.nguyenvan86@gmail.com",
+  "phone": "0366660890",
+  "password": "$2b$10$UErHtflphFKAySBclk30tezJjvgzhrHggU.sEb547pk9riWduaoO.",
+  "deleted": false,
+  "tokenUser": "c70bd84ef9b4c22d6a30e6c2d2751ef2619860e1e49b9c42",
+  "status": "active",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T09:44:27.991Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T09:44:27.991Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T09:44:27.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T09:44:35.352Z"
+  },
+  "__v": 0
+}]

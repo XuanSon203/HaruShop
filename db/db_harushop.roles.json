@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "68a441fa59cd38f3f3b3c488"
+  },
+  "roleName": "admin",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-08-19T09:20:58.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:43:02.826Z"
+  },
+  "__v": 12,
+  "descriptionRole": "Có tất cả các quyền trên hệ thống ",
+  "status": "active",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-14T08:18:44.523Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-14T08:18:44.523Z"
+    }
+  },
+  "permissions": [
+    "",
+    "users.read",
+    "users.create",
+    "users.update",
+    "users.delete",
+    "roles.read",
+    "roles.create",
+    "roles.update",
+    "roles.delete",
+    "products.read",
+    "products.create",
+    "products.update",
+    "products.delete",
+    "categories.read",
+    "categories.create",
+    "categories.update",
+    "categories.delete",
+    "services.read",
+    "services.create",
+    "services.update",
+    "services.delete",
+    "orders.read",
+    "orders.update",
+    "discounts.read",
+    "discounts.create",
+    "discounts.update",
+    "discounts.delete",
+    "payments.read",
+    "payments.create",
+    "payments.update",
+    "payments.delete",
+    "orderservices.read",
+    "orderservices.update",
+    "accounts.read",
+    "accounts.create",
+    "accounts.update",
+    "accounts.delete"
+  ],
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:44.551Z"
+      },
+      "_id": {
+        "$oid": "68c67a64d7e624261e39ef1f"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:45.147Z"
+      },
+      "_id": {
+        "$oid": "68c67a65d7e624261e39ef29"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:45.564Z"
+      },
+      "_id": {
+        "$oid": "68c67a65d7e624261e39ef33"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:45.633Z"
+      },
+      "_id": {
+        "$oid": "68c67a65d7e624261e39ef3e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:46.674Z"
+      },
+      "_id": {
+        "$oid": "68c67a66d7e624261e39ef4a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:46.754Z"
+      },
+      "_id": {
+        "$oid": "68c67a66d7e624261e39ef57"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:47.794Z"
+      },
+      "_id": {
+        "$oid": "68c67a67d7e624261e39ef65"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:18:49.813Z"
+      },
+      "_id": {
+        "$oid": "68c67a69d7e624261e39ef74"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:31:49.616Z"
+      },
+      "_id": {
+        "$oid": "68cbd185300d72e6d47942e6"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:32:10.836Z"
+      },
+      "_id": {
+        "$oid": "68cbd19a300d72e6d4794317"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:33:35.500Z"
+      },
+      "_id": {
+        "$oid": "68cbd1ef300d72e6d4794387"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:43:02.796Z"
+      },
+      "_id": {
+        "$oid": "69207a7693008eec64a497e2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c68ce4eb8146c8a0f1b4d8"
+  },
+  "roleName": "Chủ ",
+  "descriptionRole": "htu",
+  "status": "active",
+  "deleted": true,
+  "permissions": [
+    "",
+    "roles.read",
+    "roles.create",
+    "roles.update",
+    "products.read",
+    "products.create",
+    "products.update",
+    "products.delete",
+    "categories.read",
+    "categories.create",
+    "categories.update",
+    "categories.delete",
+    "services.read",
+    "services.create",
+    "services.update",
+    "services.delete",
+    "orders.read",
+    "orders.update",
+    "discounts.read",
+    "discounts.create",
+    "discounts.update",
+    "discounts.delete",
+    "orderservices.read",
+    "orderservices.update",
+    "payments.read",
+    "payments.create",
+    "payments.update",
+    "payments.delete"
+  ],
+  "createdBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "createdAt": {
+      "$date": "2025-09-14T09:37:40.201Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0ce2629732d22f3eccf2c",
+    "deletedAt": {
+      "$date": "2025-11-21T14:42:46.451Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:31:36.915Z"
+      },
+      "_id": {
+        "$oid": "68cbd178300d72e6d47942bf"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:31:38.384Z"
+      },
+      "_id": {
+        "$oid": "68cbd17a300d72e6d47942c8"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:32:15.575Z"
+      },
+      "_id": {
+        "$oid": "68cbd19f300d72e6d4794329"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:32:21.647Z"
+      },
+      "_id": {
+        "$oid": "68cbd1a5300d72e6d4794334"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:32:29.198Z"
+      },
+      "_id": {
+        "$oid": "68cbd1ad300d72e6d4794340"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T10:44:47.556Z"
+      },
+      "_id": {
+        "$oid": "68cbe29f4e7ef64f180601ad"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-14T09:37:40.212Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:42:46.452Z"
+  },
+  "slug": "chu",
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "68cbd23edde37256c9876166"
+  },
+  "roleName": "Nhân viên",
+  "descriptionRole": "khng",
+  "status": "active",
+  "deleted": true,
+  "permissions": [
+    "",
+    "products.read",
+    "products.create",
+    "services.read",
+    "services.create",
+    "orders.read",
+    "orders.update",
+    "discounts.read",
+    "orderservices.read",
+    "orderservices.update"
+  ],
+  "createdBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "createdAt": {
+      "$date": "2025-09-18T09:34:54.842Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0ce2629732d22f3eccf2c",
+    "deletedAt": {
+      "$date": "2025-11-21T14:42:44.578Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:35:34.973Z"
+      },
+      "_id": {
+        "$oid": "68cbd266dde37256c98761da"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-18T09:34:54.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:42:44.583Z"
+  },
+  "slug": "nhan-vien",
+  "__v": 1
+}]

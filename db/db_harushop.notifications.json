@@ -1,0 +1,5198 @@
+[{
+  "_id": {
+    "$oid": "691ee690740dffcbbe1bd481"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #E6BB58",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "690b5562997c8a226de6bb58"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690b5562997c8a226de6bb58",
+  "meta": {
+    "orderCode": "#E6BB58",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:14:19.765Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T09:59:44.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:14:19.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee6a104a396b770f3c4cd"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #493D96",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "690b2b5d98911d145e493d96"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690b2b5d98911d145e493d96",
+  "meta": {
+    "orderCode": "#493D96",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:14:19.765Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:00:01.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:14:19.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee6a504a396b770f3c4df"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #493D96",
+  "message": "Đơn hàng đang chờ xác nhận. Chúng tôi sẽ xử lý sớm nhất có thể.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "690b2b5d98911d145e493d96"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690b2b5d98911d145e493d96",
+  "meta": {
+    "orderCode": "#493D96",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:14:19.765Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:00:05.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:14:19.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee6ef04a396b770f3cc6a"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #F3CC67",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:14:19.765Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:01:19.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:14:19.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee6ef04a396b770f3cc6c"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #F3CC67",
+  "message": "Tổng giá trị: 201.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:01:19.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee6f604a396b770f3cded"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:14:19.765Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:01:26.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:14:19.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eea0d8f918218dbb7a084"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:17:23.531Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:14:37.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:17:23.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eea1b8f918218dbb7a10e"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:17:24.449Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:14:51.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:17:24.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeaf78f918218dbb7ad7a"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #B7AD77",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeaf78f918218dbb7ad77"
+  },
+  "action_url": "/orders?highlight=691eeaf78f918218dbb7ad77",
+  "meta": {
+    "orderCode": "#B7AD77",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:18:31.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeaf78f918218dbb7ad7c"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #B7AD77",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Spa & Làm đẹp",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeaf78f918218dbb7ad77"
+  },
+  "action_url": "/admin/orderservices?orderId=691eeaf78f918218dbb7ad77",
+  "meta": {
+    "orderCode": "#B7AD77"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:18:31.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb1d8f918218dbb7ae15"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7AD77",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeaf78f918218dbb7ad77"
+  },
+  "action_url": "/orders?highlight=691eeaf78f918218dbb7ad77",
+  "meta": {
+    "orderCode": "#B7AD77",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:19:09.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb238f918218dbb7ae7c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7AD77",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeaf78f918218dbb7ad77"
+  },
+  "action_url": "/orders?highlight=691eeaf78f918218dbb7ad77",
+  "meta": {
+    "orderCode": "#B7AD77",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:19:15.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb3d8f918218dbb7af6a"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #B7AF67",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb3d8f918218dbb7af67"
+  },
+  "action_url": "/orders?highlight=691eeb3d8f918218dbb7af67",
+  "meta": {
+    "orderCode": "#B7AF67",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:19:41.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb3d8f918218dbb7af6c"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #B7AF67",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Dịch vụ spa",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb3d8f918218dbb7af67"
+  },
+  "action_url": "/admin/orderservices?orderId=691eeb3d8f918218dbb7af67",
+  "meta": {
+    "orderCode": "#B7AF67"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:19:41.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb448f918218dbb7afdf"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7AF67",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb3d8f918218dbb7af67"
+  },
+  "action_url": "/orders?highlight=691eeb3d8f918218dbb7af67",
+  "meta": {
+    "orderCode": "#B7AF67",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:19:48.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb5c8f918218dbb7b055"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #B7B052",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb5c8f918218dbb7b052"
+  },
+  "action_url": "/orders?highlight=691eeb5c8f918218dbb7b052",
+  "meta": {
+    "orderCode": "#B7B052",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:20:12.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:29.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb5c8f918218dbb7b057"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #B7B052",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Dịch vụ spa",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb5c8f918218dbb7b052"
+  },
+  "action_url": "/admin/orderservices?orderId=691eeb5c8f918218dbb7b052",
+  "meta": {
+    "orderCode": "#B7B052"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:20:12.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb638f918218dbb7b0ca"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7B052",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb5c8f918218dbb7b052"
+  },
+  "action_url": "/orders?highlight=691eeb5c8f918218dbb7b052",
+  "meta": {
+    "orderCode": "#B7B052",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:30:55.047Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:20:19.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:30:55.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeb938f918218dbb7b43d"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7AF67",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb3d8f918218dbb7af67"
+  },
+  "action_url": "/orders?highlight=691eeb3d8f918218dbb7af67",
+  "meta": {
+    "orderCode": "#B7AF67",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:21:17.061Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:21:07.300Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:21:17.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eebd667426e5fead71e26"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #D71E23",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691eebd667426e5fead71e23"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691eebd667426e5fead71e23",
+  "meta": {
+    "orderCode": "#D71E23",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:30:37.565Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:22:14.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:30:37.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eebd667426e5fead71e28"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #D71E23",
+  "message": "Tổng giá trị: 23.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691eebd667426e5fead71e23"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691eebd667426e5fead71e23",
+  "meta": {
+    "orderCode": "#D71E23",
+    "customer": null
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:22:14.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:42:57.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eebdf67426e5fead720f9"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #D71E23",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691eebd667426e5fead71e23"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691eebd667426e5fead71e23",
+  "meta": {
+    "orderCode": "#D71E23",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:23:39.149Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:22:23.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:23:39.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eedf767426e5fead72893"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B7B052",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eeb5c8f918218dbb7b052"
+  },
+  "action_url": "/orders?highlight=691eeb5c8f918218dbb7b052",
+  "meta": {
+    "orderCode": "#B7B052",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:31:24.224Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:31:19.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:31:24.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eee0b67426e5fead72aee"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #D72AEB",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/orders?highlight=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:33:11.062Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:31:39.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:33:11.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eee0b67426e5fead72af0"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #D72AEB",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Khám & Tiêm phòng",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/admin/orderservices?orderId=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:41:31.027Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:31:39.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:41:31.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eee1367426e5fead72baf"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #D72AEB",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/orders?highlight=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:33:06.464Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:31:47.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:33:06.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eee5a67426e5fead72c1d"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #D72AEB",
+  "message": "Lịch hẹn của bạn đang chờ xác nhận.",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/orders?highlight=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:33:16.028Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:32:58.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:33:16.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeec867426e5fead72da9"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #D72AEB",
+  "message": "Dịch vụ của bạn đang được thực hiện.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/orders?highlight=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB",
+    "status": "In Progress"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:35:41.662Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:34:48.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:35:41.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691eeece67426e5fead72e21"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #D72AEB",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691eee0b67426e5fead72aeb"
+  },
+  "action_url": "/orders?highlight=691eee0b67426e5fead72aeb",
+  "meta": {
+    "orderCode": "#D72AEB",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:35:41.662Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:34:54.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:35:41.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef06f67426e5fead73447"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #D73444",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691ef06f67426e5fead73444"
+  },
+  "action_url": "/orders?highlight=691ef06f67426e5fead73444",
+  "meta": {
+    "orderCode": "#D73444",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:41:51.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef06f67426e5fead73449"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #D73444",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Khám & Tiêm phòng",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691ef06f67426e5fead73444"
+  },
+  "action_url": "/admin/orderservices?orderId=691ef06f67426e5fead73444",
+  "meta": {
+    "orderCode": "#D73444"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:41:58.786Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:41:51.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:41:58.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef0cb67426e5fead739c5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #D739C2",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ef0cb67426e5fead739c2"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ef0cb67426e5fead739c2",
+  "meta": {
+    "orderCode": "#D739C2",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:43:52.239Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:43:23.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:43:52.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef0cb67426e5fead739c7"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #D739C2",
+  "message": "Tổng giá trị: 203.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ef0cb67426e5fead739c2"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691ef0cb67426e5fead739c2",
+  "meta": {
+    "orderCode": "#D739C2",
+    "customer": null
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:44:02.318Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:43:23.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:44:02.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef0f467426e5fead73ba9"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #D73BA6",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ef0f467426e5fead73ba6"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ef0f467426e5fead73ba6",
+  "meta": {
+    "orderCode": "#D73BA6",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T14:30:46.474Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:44:04.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T14:30:46.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef0f467426e5fead73bab"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #D73BA6",
+  "message": "Tổng giá trị: 203.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ef0f467426e5fead73ba6"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691ef0f467426e5fead73ba6",
+  "meta": {
+    "orderCode": "#D73BA6",
+    "customer": null
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:44:10.790Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:44:04.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:44:10.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef10467426e5fead73c79"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:44:20.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef11167426e5fead73c90"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #E6BB58",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "690b5562997c8a226de6bb58"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690b5562997c8a226de6bb58",
+  "meta": {
+    "orderCode": "#E6BB58",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:44:33.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ef11e67426e5fead73f76"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #493D96",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "690b2b5d98911d145e493d96"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690b2b5d98911d145e493d96",
+  "meta": {
+    "orderCode": "#493D96",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T10:44:46.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T10:48:47.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f356bf0951e1b0337247c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #372479",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f356bf0951e1b03372479"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f356bf0951e1b03372479",
+  "meta": {
+    "orderCode": "#372479",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T15:36:22.606Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T15:36:11.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:36:22.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f356bf0951e1b0337247e"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #372479",
+  "message": "Tổng giá trị: 103.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f356bf0951e1b03372479"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f356bf0951e1b03372479",
+  "meta": {
+    "orderCode": "#372479",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T15:44:43.049Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T15:36:11.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:44:43.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3754f0951e1b03375a1a"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #375A17",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f3754f0951e1b03375a17"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f3754f0951e1b03375a17",
+  "meta": {
+    "orderCode": "#375A17",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T15:44:28.507Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T15:44:20.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:44:28.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3754f0951e1b03375a1c"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #375A17",
+  "message": "Tổng giá trị: 281.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f3754f0951e1b03375a17"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f3754f0951e1b03375a17",
+  "meta": {
+    "orderCode": "#375A17",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:59:14.284Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T15:44:20.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:59:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4a0ef64acdfc351e1736"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #1E1733",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4a0ef64acdfc351e1733"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f4a0ef64acdfc351e1733",
+  "meta": {
+    "orderCode": "#1E1733",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:04:27.322Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:04:14.274Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:04:27.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4a0ef64acdfc351e1738"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #1E1733",
+  "message": "Tổng giá trị: 201.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4a0ef64acdfc351e1733"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f4a0ef64acdfc351e1733",
+  "meta": {
+    "orderCode": "#1E1733",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:59:14.284Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:04:14.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:59:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4b0545d5b23a44f8d69c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #F8D699",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4b0545d5b23a44f8d699"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f4b0545d5b23a44f8d699",
+  "meta": {
+    "orderCode": "#F8D699",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:08:53.162Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:08:21.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:08:53.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4b0545d5b23a44f8d69e"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #F8D699",
+  "message": "Tổng giá trị: 2.155₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4b0545d5b23a44f8d699"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f4b0545d5b23a44f8d699",
+  "meta": {
+    "orderCode": "#F8D699",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:59:14.284Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:08:21.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:59:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4ceecc177e44f748b06b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #48B068",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4ceecc177e44f748b068"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f4ceecc177e44f748b068",
+  "meta": {
+    "orderCode": "#48B068",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:21:21.525Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:16:30.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:21:21.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4ceecc177e44f748b06d"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #48B068",
+  "message": "Tổng giá trị: 124.218₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4ceecc177e44f748b068"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f4ceecc177e44f748b068",
+  "meta": {
+    "orderCode": "#48B068",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:59:14.284Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:16:30.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:59:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4d5fcc177e44f748b9b2"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #48B9AF",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4d5fcc177e44f748b9af"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f4d5fcc177e44f748b9af",
+  "meta": {
+    "orderCode": "#48B9AF",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:21:21.525Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:18:23.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:21:21.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f4d5fcc177e44f748b9b4"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #48B9AF",
+  "message": "Tổng giá trị: 617.090₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4d5fcc177e44f748b9af"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691f4d5fcc177e44f748b9af",
+  "meta": {
+    "orderCode": "#48B9AF",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-20T17:59:14.284Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T17:18:23.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T17:59:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691fc467303e3b323dbbd269"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #48B9AF",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f4d5fcc177e44f748b9af"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f4d5fcc177e44f748b9af",
+  "meta": {
+    "orderCode": "#48B9AF",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T06:19:32.985Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T01:46:15.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T06:19:32.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691fc48b303e3b323dbbd5b5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #BBD5B2",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691fc48b303e3b323dbbd5b2"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691fc48b303e3b323dbbd5b2",
+  "meta": {
+    "orderCode": "#BBD5B2",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T02:55:46.435Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T01:46:51.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T02:55:46.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691fc48b303e3b323dbbd5b7"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #BBD5B2",
+  "message": "Tổng giá trị: 201.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691fc48b303e3b323dbbd5b2"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691fc48b303e3b323dbbd5b2",
+  "meta": {
+    "orderCode": "#BBD5B2",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T01:55:00.851Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T01:46:51.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T01:55:00.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691fc491303e3b323dbbd712"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #BBD5B2",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691fc48b303e3b323dbbd5b2"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691fc48b303e3b323dbbd5b2",
+  "meta": {
+    "orderCode": "#BBD5B2",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T02:55:46.435Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T01:46:57.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T02:55:46.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691fc5191be45c7c8f3dc6a5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #BBD5B2",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "691fc48b303e3b323dbbd5b2"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691fc48b303e3b323dbbd5b2",
+  "meta": {
+    "orderCode": "#BBD5B2",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T02:55:46.435Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T01:49:13.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T02:55:46.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ff0c8a7a7506d7fb70311"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B7030E",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ff0c8a7a7506d7fb7030e"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ff0c8a7a7506d7fb7030e",
+  "meta": {
+    "orderCode": "#B7030E",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T05:01:22.352Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T04:55:36.683Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T05:01:22.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ff0c8a7a7506d7fb70313"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B7030E",
+  "message": "Tổng giá trị: 201.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ff0c8a7a7506d7fb7030e"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=691ff0c8a7a7506d7fb7030e",
+  "meta": {
+    "orderCode": "#B7030E",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T06:04:00.445Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T04:55:36.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T06:04:00.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ff531dacd1cdd14b792eb"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #B792E8",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691ff531dacd1cdd14b792e8"
+  },
+  "action_url": "/orders?highlight=691ff531dacd1cdd14b792e8",
+  "meta": {
+    "orderCode": "#B792E8",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:04:03.749Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T05:14:25.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:04:03.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ff531dacd1cdd14b792ed"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #B792E8",
+  "message": "Hau Pham Xuan đã đặt dịch vụ Spa & Làm đẹp",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691ff531dacd1cdd14b792e8"
+  },
+  "action_url": "/admin/orderservices?orderId=691ff531dacd1cdd14b792e8",
+  "meta": {
+    "orderCode": "#B792E8"
+  },
+  "readAt": {
+    "$date": "2025-11-21T06:03:46.460Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T05:14:25.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T06:03:46.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692047faa8c44a203853bdbe"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #53BDBB",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdbb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdbb",
+  "meta": {
+    "orderCode": "#53BDBB",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:08:18.128Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:07:38.860Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:08:18.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692047faa8c44a203853bdc0"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #53BDB8",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdb8"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdb8",
+  "meta": {
+    "orderCode": "#53BDB8",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:08:18.128Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:07:38.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:08:18.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692047faa8c44a203853bdc2"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #53BDBB",
+  "message": "Tổng giá trị: 1.231₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdbb"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=692047faa8c44a203853bdbb",
+  "meta": {
+    "orderCode": "#53BDBB",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:10:02.779Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:07:38.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:10:02.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692047faa8c44a203853bdc4"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #53BDB8",
+  "message": "Tổng giá trị: 1.231₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdb8"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=692047faa8c44a203853bdb8",
+  "meta": {
+    "orderCode": "#53BDB8",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:08:48.318Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:07:38.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:08:48.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69204843a8c44a203853c1c3"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #53BDB8",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdb8"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdb8",
+  "meta": {
+    "orderCode": "#53BDB8",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:09:42.060Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:08:51.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:09:42.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69204846a8c44a203853c1d3"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #53BDBB",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdbb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdbb",
+  "meta": {
+    "orderCode": "#53BDBB",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:09:42.060Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:08:54.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:09:42.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69204857a8c44a203853c289"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #53BDBB",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdbb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdbb",
+  "meta": {
+    "orderCode": "#53BDBB",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T11:09:19.425Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:09:11.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:09:19.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205273e0548acdb2721da2"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B792E8",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "691ff531dacd1cdd14b792e8"
+  },
+  "action_url": "/orders?highlight=691ff531dacd1cdd14b792e8",
+  "meta": {
+    "orderCode": "#B792E8",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T13:36:08.421Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:52:19.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:36:08.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692053aeeda70d302e9e8ca7"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #9E8CA4",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692053aeeda70d302e9e8ca4"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692053aeeda70d302e9e8ca4",
+  "meta": {
+    "orderCode": "#9E8CA4",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:57:34.463Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692053aeeda70d302e9e8ca9"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #9E8CA4",
+  "message": "Tổng giá trị: 1.231₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692053aeeda70d302e9e8ca4"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=692053aeeda70d302e9e8ca4",
+  "meta": {
+    "orderCode": "#9E8CA4",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:48:31.935Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T11:57:34.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:48:31.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205956bafdce9c8ceff2be"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #EFF2BB",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205956bafdce9c8ceff2bb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205956bafdce9c8ceff2bb",
+  "meta": {
+    "orderCode": "#EFF2BB",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:21:42.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205956bafdce9c8ceff2c0"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #EFF2BB",
+  "message": "Tổng giá trị: 1.231₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205956bafdce9c8ceff2bb"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69205956bafdce9c8ceff2bb",
+  "meta": {
+    "orderCode": "#EFF2BB",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:48:31.935Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:21:42.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:48:31.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205c6e4ef154d814b59dd8"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B59DD5",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:34:54.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205c6e4ef154d814b59dda"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B59DD5",
+  "message": "Tổng giá trị: 23.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:48:31.935Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:34:54.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:48:31.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205c804ef154d814b59ec6"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B59EC3",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:35:12.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:35:18.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205c804ef154d814b59ec8"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B59EC3",
+  "message": "Tổng giá trị: 1.231₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:48:31.935Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:35:12.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:48:31.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205e534ef154d814b5a2d1"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B5A2CE",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205e534ef154d814b5a2ce"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205e534ef154d814b5a2ce",
+  "meta": {
+    "orderCode": "#B5A2CE",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:42:59.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205e534ef154d814b5a2d3"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B5A2CE",
+  "message": "Tổng giá trị: 23.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205e534ef154d814b5a2ce"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69205e534ef154d814b5a2ce",
+  "meta": {
+    "orderCode": "#B5A2CE",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:45:34.649Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:42:59.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:45:34.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205edb4ef154d814b5a43f"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #B5A43C",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/orders?highlight=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:15.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205edb4ef154d814b5a441"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #B5A43C",
+  "message": "Xuan Son Pham đã đặt dịch vụ Spa & Làm đẹp",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/admin/orderservices?orderId=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:45:29.145Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:15.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:45:29.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205eeb4ef154d814b5a731"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B5A43C",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/orders?highlight=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:31.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205ef14ef154d814b5a88d"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B5A2CE",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205e534ef154d814b5a2ce"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205e534ef154d814b5a2ce",
+  "meta": {
+    "orderCode": "#B5A2CE",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:37.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205ef34ef154d814b5a8a3"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59EC3",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:39.196Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205ef44ef154d814b5a8b9"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59DD5",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:40.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205ef74ef154d814b5a8cf"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #EFF2BB",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205956bafdce9c8ceff2bb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205956bafdce9c8ceff2bb",
+  "meta": {
+    "orderCode": "#EFF2BB",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:43.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205efa4ef154d814b5a8e5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #9E8CA4",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692053aeeda70d302e9e8ca4"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692053aeeda70d302e9e8ca4",
+  "meta": {
+    "orderCode": "#9E8CA4",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:45:46.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f0d4ef154d814b5a96c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B5A2CE",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205e534ef154d814b5a2ce"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205e534ef154d814b5a2ce",
+  "meta": {
+    "orderCode": "#B5A2CE",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:05.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f0f4ef154d814b5a984"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59EC3",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "cancelled"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:07.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f124ef154d814b5a99c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59DD5",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:10.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f154ef154d814b5a9b4"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #EFF2BB",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205956bafdce9c8ceff2bb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205956bafdce9c8ceff2bb",
+  "meta": {
+    "orderCode": "#EFF2BB",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:13.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f164ef154d814b5a9cc"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #9E8CA4",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692053aeeda70d302e9e8ca4"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692053aeeda70d302e9e8ca4",
+  "meta": {
+    "orderCode": "#9E8CA4",
+    "status": "cancelled"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:14.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f194ef154d814b5a9e6"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #9E8CA4",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692053aeeda70d302e9e8ca4"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692053aeeda70d302e9e8ca4",
+  "meta": {
+    "orderCode": "#9E8CA4",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:46:17.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:46:27.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f834ef154d814b5abb5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59DD5",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:57:04.638Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:48:03.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:57:04.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f844ef154d814b5abd7"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59EC3",
+  "message": "Yêu cầu hoàn hàng đã được xử lý. Sản phẩm sẽ được nhận lại trong thời gian sớm nhất.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "returned"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:57:04.638Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:48:04.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:57:04.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f874ef154d814b5abff"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B5A2CE",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205e534ef154d814b5a2ce"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205e534ef154d814b5a2ce",
+  "meta": {
+    "orderCode": "#B5A2CE",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:57:04.638Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:48:07.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:57:04.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69205f8c4ef154d814b5ac1b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59EC3",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:48:38.828Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:48:12.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:48:38.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6920618a7376b991529bf271"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B5A43C",
+  "message": "Dịch vụ của bạn đang được thực hiện.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/orders?highlight=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C",
+    "status": "In Progress"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:57:04.638Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:56:42.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:57:04.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6920618b7376b991529bf2e1"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B5A43C",
+  "message": "Lịch hẹn của bạn đang chờ xác nhận.",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/orders?highlight=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:57:04.638Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:56:43.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:57:04.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6920618e7376b991529bf355"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #B5A43C",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69205edb4ef154d814b5a43c"
+  },
+  "action_url": "/orders?highlight=69205edb4ef154d814b5a43c",
+  "meta": {
+    "orderCode": "#B5A43C",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-21T12:56:58.202Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T12:56:46.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T12:56:58.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692065f58f55ae4586dd5d64"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #DD5D61",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692065f58f55ae4586dd5d61"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692065f58f55ae4586dd5d61",
+  "meta": {
+    "orderCode": "#DD5D61",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T13:15:39.976Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T13:15:33.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:15:39.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692065f58f55ae4586dd5d66"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #DD5D61",
+  "message": "Tổng giá trị: 36.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692065f58f55ae4586dd5d61"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=692065f58f55ae4586dd5d61",
+  "meta": {
+    "orderCode": "#DD5D61",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T13:16:20.975Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T13:15:33.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:16:20.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69206aeed445d80976687675"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #687672",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69206aeed445d80976687672"
+  },
+  "action_url": "/orders?highlight=69206aeed445d80976687672",
+  "meta": {
+    "orderCode": "#687672",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T13:36:51.965Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T13:36:46.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:36:51.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69206aeed445d80976687677"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #687672",
+  "message": "Hau Pham Xuank đã đặt dịch vụ Khám & Tiêm phòng",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69206aeed445d80976687672"
+  },
+  "action_url": "/admin/orderservices?orderId=69206aeed445d80976687672",
+  "meta": {
+    "orderCode": "#687672"
+  },
+  "readAt": {
+    "$date": "2025-11-21T13:56:38.182Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T13:36:46.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:56:38.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692071e351040e398db9a311"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B9A30E",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "692071e351040e398db9a30e"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692071e351040e398db9a30e",
+  "meta": {
+    "orderCode": "#B9A30E",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T14:08:08.960Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:06:27.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:08:08.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692071e451040e398db9a313"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B9A30E",
+  "message": "Tổng giá trị: 101.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692071e351040e398db9a30e"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=692071e351040e398db9a30e",
+  "meta": {
+    "orderCode": "#B9A30E",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T14:32:30.777Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:06:28.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:32:30.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69207362863a61dbe5f3aeae"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #F3AEAB",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207362863a61dbe5f3aeab"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69207362863a61dbe5f3aeab",
+  "meta": {
+    "orderCode": "#F3AEAB",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-21T14:21:26.151Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:12:50.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:21:26.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69207362863a61dbe5f3aeb0"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #F3AEAB",
+  "message": "Tổng giá trị: 101.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207362863a61dbe5f3aeab"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69207362863a61dbe5f3aeab",
+  "meta": {
+    "orderCode": "#F3AEAB",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T14:32:30.777Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:12:50.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:32:30.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69207763f1a0b96fe0e2f140"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #E2F13C",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207763f1a0b96fe0e2f13c"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69207763f1a0b96fe0e2f13c",
+  "meta": {
+    "orderCode": "#E2F13C",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:37:33.502Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:29:55.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:37:33.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69207763f1a0b96fe0e2f142"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #E2F13C",
+  "message": "Tổng giá trị: 113.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207763f1a0b96fe0e2f13c"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69207763f1a0b96fe0e2f13c",
+  "meta": {
+    "orderCode": "#E2F13C",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-21T14:32:30.777Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:29:55.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:32:30.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692077a5f1a0b96fe0e2f419"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59EC3",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c804ef154d814b59ec3"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c804ef154d814b59ec3",
+  "meta": {
+    "orderCode": "#B59EC3",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:37:33.502Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T14:31:01.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:37:33.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69214069f2a038289962a22e"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #62A22B",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69214069f2a038289962a22b"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69214069f2a038289962a22b",
+  "meta": {
+    "orderCode": "#62A22B",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:37:33.502Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T04:47:37.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:37:33.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69214069f2a038289962a230"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #62A22B",
+  "message": "Tổng giá trị: 103.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69214069f2a038289962a22b"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69214069f2a038289962a22b",
+  "meta": {
+    "orderCode": "#62A22B",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:52:06.133Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T04:47:37.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:52:06.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921420bf2a038289962a606"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #62A603",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "6921420bf2a038289962a603"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=6921420bf2a038289962a603",
+  "meta": {
+    "orderCode": "#62A603",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:37:33.502Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T04:54:35.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:37:33.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921420bf2a038289962a608"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #62A603",
+  "message": "Tổng giá trị: 103.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "6921420bf2a038289962a603"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=6921420bf2a038289962a603",
+  "meta": {
+    "orderCode": "#62A603",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T04:54:38.848Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T04:54:35.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T04:54:38.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921424ef2a038289962a85d"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #62A603",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "6921420bf2a038289962a603"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=6921420bf2a038289962a603",
+  "meta": {
+    "orderCode": "#62A603",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:37:33.502Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T04:55:42.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:37:33.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921684afd0f9457c612e865"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #12E862",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T07:37:46.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921684afd0f9457c612e867"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #12E862",
+  "message": "Tổng giá trị: 36.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T07:39:16.191Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T07:37:46.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T07:39:16.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692168a7fd0f9457c612ecdc"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #12E862",
+  "message": "Đơn hàng đang được xử lý trong kho.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "status": "processing"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T07:39:19.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c2bb3831cd511b8200b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #12E862",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:10:51.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c3fb3831cd511b82151"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #62A22B",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69214069f2a038289962a22b"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69214069f2a038289962a22b",
+  "meta": {
+    "orderCode": "#62A22B",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:11:11.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c42b3831cd511b82163"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #E2F13C",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207763f1a0b96fe0e2f13c"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69207763f1a0b96fe0e2f13c",
+  "meta": {
+    "orderCode": "#E2F13C",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:11:14.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c4eb3831cd511b82183"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3AEAB",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69207362863a61dbe5f3aeab"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69207362863a61dbe5f3aeab",
+  "meta": {
+    "orderCode": "#F3AEAB",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:11:33.441Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:11:26.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:11:33.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c7bb3831cd511b824ed"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B824E9",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824e9"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218c7bb3831cd511b824e9",
+  "meta": {
+    "orderCode": "#B824E9",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:12:11.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c7bb3831cd511b824f2"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B824E9",
+  "message": "Tổng giá trị: 101.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824e9"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69218c7bb3831cd511b824e9",
+  "meta": {
+    "orderCode": "#B824E9",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:17:23.200Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:12:11.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:17:23.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c7bb3831cd511b824f4"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B824EF",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824ef"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218c7bb3831cd511b824ef",
+  "meta": {
+    "orderCode": "#B824EF",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:12:11.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c7bb3831cd511b824f6"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B824EF",
+  "message": "Tổng giá trị: 101.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824ef"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69218c7bb3831cd511b824ef",
+  "meta": {
+    "orderCode": "#B824EF",
+    "customer": {
+      "$oid": "690837d2ace7813511cba3e2"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:17:23.200Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:12:11.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:17:23.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218c83b3831cd511b82701"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B824EF",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824ef"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218c7bb3831cd511b824ef",
+  "meta": {
+    "orderCode": "#B824EF",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:14:17.978Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:12:19.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:14:17.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218d68b3831cd511b8311c"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đơn hàng mới #B83119",
+  "message": "Đơn hàng của bạn đã được tạo và đang chờ xác nhận.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218d68b3831cd511b83119"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218d68b3831cd511b83119",
+  "meta": {
+    "orderCode": "#B83119",
+    "status": "pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:16:08.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218d68b3831cd511b8311e"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Khách vừa đặt hàng #B83119",
+  "message": "Tổng giá trị: 71.000₫",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218d68b3831cd511b83119"
+  },
+  "service_order_id": null,
+  "action_url": "/admin/orders?orderId=69218d68b3831cd511b83119",
+  "meta": {
+    "orderCode": "#B83119",
+    "customer": {
+      "$oid": "691f3415febec550f9fba0a4"
+    }
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:17:23.200Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:16:08.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:17:23.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218d72b3831cd511b83259"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B83119",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218d68b3831cd511b83119"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218d68b3831cd511b83119",
+  "meta": {
+    "orderCode": "#B83119",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:16:18.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218d92b3831cd511b833a4"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B824E9",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824e9"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218c7bb3831cd511b824e9",
+  "meta": {
+    "orderCode": "#B824E9",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:16:50.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218da0b3831cd511b83457"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #12E862",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:17:04.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218daab3831cd511b834fd"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B824E9",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69218c7bb3831cd511b824e9"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69218c7bb3831cd511b824e9",
+  "meta": {
+    "orderCode": "#B824E9",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:17:14.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218dc1b3831cd511b835d6"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #12E862",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "69216849fd0f9457c612e862"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69216849fd0f9457c612e862",
+  "meta": {
+    "orderCode": "#12E862",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:17:41.953Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:17:37.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:17:41.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218e2db3831cd511b83a1d"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #B59DD5",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "69205c6e4ef154d814b59dd5"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=69205c6e4ef154d814b59dd5",
+  "meta": {
+    "orderCode": "#B59DD5",
+    "status": "cancelled"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:19:25.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218e2eb3831cd511b83a32"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #53BDBB",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "692047faa8c44a203853bdbb"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=692047faa8c44a203853bdbb",
+  "meta": {
+    "orderCode": "#53BDBB",
+    "status": "cancelled"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:19:26.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218e31b3831cd511b83a47"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #BBD5B2",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "read",
+  "order_id": {
+    "$oid": "691fc48b303e3b323dbbd5b2"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691fc48b303e3b323dbbd5b2",
+  "meta": {
+    "orderCode": "#BBD5B2",
+    "status": "cancelled"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:19:29.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218e64b3831cd511b83d9b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #372479",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "691f356bf0951e1b03372479"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691f356bf0951e1b03372479",
+  "meta": {
+    "orderCode": "#372479",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:20:24.814Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:20:20.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:20:24.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218ebfb3831cd511b83ebf"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #D73BA6",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ef0f467426e5fead73ba6"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ef0f467426e5fead73ba6",
+  "meta": {
+    "orderCode": "#D73BA6",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:21:51.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218ed0b3831cd511b83f26"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đã rời kho và đang trên đường giao tới bạn.",
+  "type": "order",
+  "level": "info",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "shipped"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:22:08.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218ef7b3831cd511b8403b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #F3CC67",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "691ee6ef04a396b770f3cc67"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=691ee6ef04a396b770f3cc67",
+  "meta": {
+    "orderCode": "#F3CC67",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:22:47.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:59:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69218f0ab3831cd511b840a8"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #E63071",
+  "message": "Đơn hàng đã được giao thành công. Cảm ơn bạn đã mua sắm tại HaruShop!",
+  "type": "order",
+  "level": "success",
+  "status": "read",
+  "order_id": {
+    "$oid": "690829a4434c02d121e63071"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690829a4434c02d121e63071",
+  "meta": {
+    "orderCode": "#E63071",
+    "status": "completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T10:23:16.330Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T10:23:06.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:23:16.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a0d9cfa97b18125f9a58"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #5F9A55",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a0d9cfa97b18125f9a55"
+  },
+  "action_url": "/orders?highlight=6921a0d9cfa97b18125f9a55",
+  "meta": {
+    "orderCode": "#5F9A55",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T11:40:17.036Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:39:05.531Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T11:40:17.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a0d9cfa97b18125f9a5a"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #5F9A55",
+  "message": "Sơn BN 👻 đã đặt dịch vụ Khách sạn thú cưng",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a0d9cfa97b18125f9a55"
+  },
+  "action_url": "/admin/orderservices?orderId=6921a0d9cfa97b18125f9a55",
+  "meta": {
+    "orderCode": "#5F9A55"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:13:03.645Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:39:05.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:13:03.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a330670a9397aa2349b1"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Đặt lịch dịch vụ #2349AE",
+  "message": "Lịch hẹn của bạn đã được ghi nhận và chờ xác nhận.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:05:28.142Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:49:04.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:05:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a330670a9397aa2349b3"
+  },
+  "audience": "admin",
+  "user_id": null,
+  "account_id": null,
+  "title": "Có lịch dịch vụ mới #2349AE",
+  "message": "Hau Pham Xuankdfđ đã đặt dịch vụ Spa & Làm đẹp",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/admin/orderservices?orderId=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:13:03.645Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:49:04.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:13:03.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a532670a9397aa234d8e"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #2349AE",
+  "message": "Dịch vụ của bạn đang được thực hiện.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "In Progress"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:05:28.142Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:57:38.571Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:05:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a578670a9397aa234df5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #2349AE",
+  "message": "Lịch hẹn của bạn đang chờ xác nhận.",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:05:28.142Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:58:48.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:05:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a579670a9397aa234e45"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #2349AE",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:05:28.142Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:58:49.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:05:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a57b670a9397aa234e99"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #2349AE",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:02:51.810Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:58:51.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:02:51.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a5b4c2538f4c0a71fc7b"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #687672",
+  "message": "Lịch hẹn đã được xác nhận. Hãy chuẩn bị sẵn sàng nhé!",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69206aeed445d80976687672"
+  },
+  "action_url": "/orders?highlight=69206aeed445d80976687672",
+  "meta": {
+    "orderCode": "#687672",
+    "status": "Confirmed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:02:59.648Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T11:59:48.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:02:59.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a6a0cda3dba6ba4bcd54"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #687672",
+  "message": "Dịch vụ của bạn đang được thực hiện.",
+  "type": "service_order",
+  "level": "info",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69206aeed445d80976687672"
+  },
+  "action_url": "/orders?highlight=69206aeed445d80976687672",
+  "meta": {
+    "orderCode": "#687672",
+    "status": "In Progress"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:05:28.142Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T12:03:44.597Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:05:28.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a6a5cda3dba6ba4bcdb5"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #687672",
+  "message": "Dịch vụ đã hoàn tất. Cảm ơn bạn đã tin tưởng HaruShop!",
+  "type": "service_order",
+  "level": "success",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "69206aeed445d80976687672"
+  },
+  "action_url": "/orders?highlight=69206aeed445d80976687672",
+  "meta": {
+    "orderCode": "#687672",
+    "status": "Completed"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:03:54.282Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T12:03:49.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:03:54.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a97604318b82e65198d9"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn hàng #E63071",
+  "message": "Đơn hàng đã bị hủy. Vui lòng kiểm tra lại chi tiết hoặc liên hệ hỗ trợ.",
+  "type": "order",
+  "level": "warning",
+  "status": "unread",
+  "order_id": {
+    "$oid": "690829a4434c02d121e63071"
+  },
+  "service_order_id": null,
+  "action_url": "/orders?highlight=690829a4434c02d121e63071",
+  "meta": {
+    "orderCode": "#E63071",
+    "status": "cancelled"
+  },
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-11-22T12:15:50.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:15:50.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6921a99a04318b82e6519ad8"
+  },
+  "audience": "user",
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "account_id": null,
+  "title": "Cập nhật đơn dịch vụ #2349AE",
+  "message": "Lịch hẹn của bạn đang chờ xác nhận.",
+  "type": "service_order",
+  "level": "warning",
+  "status": "read",
+  "order_id": null,
+  "service_order_id": {
+    "$oid": "6921a330670a9397aa2349ae"
+  },
+  "action_url": "/orders?highlight=6921a330670a9397aa2349ae",
+  "meta": {
+    "orderCode": "#2349AE",
+    "status": "Pending"
+  },
+  "readAt": {
+    "$date": "2025-11-22T12:19:28.439Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T12:16:26.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T12:19:28.439Z"
+  },
+  "__v": 0
+}]

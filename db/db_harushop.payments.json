@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "690084ef61f887d9e7b5e3d1"
+  },
+  "name": "MoMo",
+  "description": "Thanh toán ví điện tử MOMO",
+  "image": "1761641711066-Generated Image October 24, 2025 - 2_44PM.png",
+  "status": true,
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-10-28T08:55:11.096Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-10-28T08:55:11.096Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-10-28T08:55:11.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:44:17.701Z"
+  },
+  "slug": "momo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690088c6448d3843929c9761"
+  },
+  "name": "MoMo",
+  "description": "dsádsadasdsda",
+  "image": null,
+  "status": true,
+  "deleted": true,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-10-28T09:11:34.487Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-10-28T09:11:34.487Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-10-28T09:11:34.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T09:11:43.903Z"
+  },
+  "slug": "momo-FlyeI9Q7V",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690088db448d3843929c9796"
+  },
+  "name": "Mbank",
+  "description": "Thanh toán qua ngân hàng MBank",
+  "image": "1761642782764-Generated Image October 24, 2025 - 2_41PM.png",
+  "status": true,
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-10-28T09:11:55.109Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-10-28T09:11:55.109Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-10-28T09:11:55.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:44:03.545Z"
+  },
+  "slug": "mbank",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692065ea8f55ae4586dd5d1b"
+  },
+  "name": "Thanh toán khi nhân hàng",
+  "description": "Thanh toán khi nhân hàng từ shipper",
+  "image": null,
+  "status": true,
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T13:15:22.056Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T13:15:22.056Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T13:15:22.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T14:43:46.079Z"
+  },
+  "slug": "thanh-toan-khi-nhan-hang",
+  "__v": 0
+}]

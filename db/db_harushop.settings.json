@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "68f85d1482a617276665d80d"
+  },
+  "shopName": "HaiRuShop",
+  "logo": "1761107243448-835813475-Black & White Modern Star Shop Logo.png",
+  "phone": "0379912993",
+  "email": "hairushop@gmail.com",
+  "address": "Hà nội",
+  "description": "Cửa hàng chuyên cung cấp sản phẩm và  dịch vụ thú cưng",
+  "bannerImages": [
+    "1763649304433-357746698-z7191010979021_d66bf7de75b101c8a812f3cfa255fb0f.jpg",
+    "1763649304453-42851465-z7191010984553_252fe9a2237227e14fc36029eef249ad.jpg",
+    "1763649304470-195474313-z7191010989564_58fa72c4a30915757bc52e48b49cb331.jpg",
+    "1763649304485-480683478-z7191011014545_95381d90701576c47854789c28d89fe0.jpg",
+    "1763649304507-342498198-z7191011571186_508c9e4092ab4b25d3cc2be0470d499c.jpg"
+  ],
+  "socialMedia": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "businessHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00",
+      "isOpen": true
+    }
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-10-22T04:27:00.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T14:36:25.235Z"
+  },
+  "__v": 6
+}]

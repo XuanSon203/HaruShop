@@ -1,0 +1,636 @@
+[{
+  "_id": {
+    "$oid": "68c0df4094517f6bc70a0bac"
+  },
+  "serviceName": "Spa & Làm đẹp",
+  "description": "sdsasdfsdfdsad",
+  "price": 100000,
+  "status": "active",
+  "image": "/uploads/services/1763651454772-thiet-ke-spa-thu-cung-dep-6.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T02:15:28.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T13:13:05.933Z"
+  },
+  "slug": "spa-and-lam-dep",
+  "__v": 34,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-13T02:42:17.679Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-13T02:42:17.680Z"
+    }
+  },
+  "rating": {
+    "score": 5,
+    "comment": "xcxc",
+    "rated_at": {
+      "$date": "2025-11-18T03:06:09.080Z"
+    },
+    "updated_at": {
+      "$date": "2025-11-18T03:06:09.080Z"
+    },
+    "rated_by": {
+      "$oid": "68c15682f87490374370ee02"
+    },
+    "images": [],
+    "is_updated": false
+  },
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:17.684Z"
+      },
+      "_id": {
+        "$oid": "68c4da09431052df7853576f"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:18.606Z"
+      },
+      "_id": {
+        "$oid": "68c4da0a431052df78535775"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:21.640Z"
+      },
+      "_id": {
+        "$oid": "68c4eccd9382d631af7e2103"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:02:21.771Z"
+      },
+      "_id": {
+        "$oid": "68c4eccd9382d631af7e210c"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:08:57.312Z"
+      },
+      "_id": {
+        "$oid": "68c4ee599382d631af7e28ec"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:08:57.785Z"
+      },
+      "_id": {
+        "$oid": "68c4ee599382d631af7e28f7"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:09.893Z"
+      },
+      "_id": {
+        "$oid": "68c4f261d567208c3d2783df"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:10.022Z"
+      },
+      "_id": {
+        "$oid": "68c4f262d567208c3d2783e7"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:10.094Z"
+      },
+      "_id": {
+        "$oid": "68c4f262d567208c3d2783f1"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:10.118Z"
+      },
+      "_id": {
+        "$oid": "68c4f262d567208c3d2783fc"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:10.166Z"
+      },
+      "_id": {
+        "$oid": "68c4f262d567208c3d27840a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:12.461Z"
+      },
+      "_id": {
+        "$oid": "68c4f264d567208c3d27841d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:12.523Z"
+      },
+      "_id": {
+        "$oid": "68c4f264d567208c3d278431"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:13.220Z"
+      },
+      "_id": {
+        "$oid": "68c4f265d567208c3d278446"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:26.068Z"
+      },
+      "_id": {
+        "$oid": "68c4f272d567208c3d2784ad"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:33.385Z"
+      },
+      "_id": {
+        "$oid": "68c4f279d567208c3d278521"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:42.799Z"
+      },
+      "_id": {
+        "$oid": "68c4f282d567208c3d2785a3"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:42.892Z"
+      },
+      "_id": {
+        "$oid": "68c4f282d567208c3d2785bc"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:44.528Z"
+      },
+      "_id": {
+        "$oid": "68c4f284d567208c3d2785d6"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:44.603Z"
+      },
+      "_id": {
+        "$oid": "68c4f284d567208c3d2785f1"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:45.371Z"
+      },
+      "_id": {
+        "$oid": "68c4f285d567208c3d27860d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:46.166Z"
+      },
+      "_id": {
+        "$oid": "68c4f286d567208c3d27862a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:27:49.828Z"
+      },
+      "_id": {
+        "$oid": "68c4f2c5ce26964b11f046a2"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:27:52.067Z"
+      },
+      "_id": {
+        "$oid": "68c4f2c8ce26964b11f046c1"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T03:06:52.580Z"
+      },
+      "_id": {
+        "$oid": "68c6314c05126f45a1ec8090"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T03:06:53.776Z"
+      },
+      "_id": {
+        "$oid": "68c6314d05126f45a1ec80b1"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T03:07:22.075Z"
+      },
+      "_id": {
+        "$oid": "68c6316a05126f45a1ec8163"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:16:27.096Z"
+      },
+      "_id": {
+        "$oid": "68c679db3115d3aec91e1055"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:16:27.187Z"
+      },
+      "_id": {
+        "$oid": "68c679db3115d3aec91e1079"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:16:28.347Z"
+      },
+      "_id": {
+        "$oid": "68c679dc3115d3aec91e109e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T08:16:29.002Z"
+      },
+      "_id": {
+        "$oid": "68c679dd3115d3aec91e10c4"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:41:22.027Z"
+      },
+      "_id": {
+        "$oid": "691ee242929c72738fba0d40"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:41:22.493Z"
+      },
+      "_id": {
+        "$oid": "691ee242929c72738fba0d69"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:41:33.856Z"
+      },
+      "_id": {
+        "$oid": "691ee24d929c72738fba0de1"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:41:34.544Z"
+      },
+      "_id": {
+        "$oid": "691ee24e929c72738fba0e0c"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:10:54.782Z"
+      },
+      "_id": {
+        "$oid": "691f2f7efebec550f9fb5b34"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:12:52.906Z"
+      },
+      "_id": {
+        "$oid": "691f2ff4febec550f9fb5d32"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T13:13:05.409Z"
+      },
+      "_id": {
+        "$oid": "6923086116be4bf06f8e8194"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-23T13:13:05.932Z"
+      },
+      "_id": {
+        "$oid": "6923086116be4bf06f8e81c3"
+      }
+    }
+  ],
+  "sold_count": 0
+},
+{
+  "_id": {
+    "$oid": "68c4d7749aebcd505a0930f8"
+  },
+  "serviceName": "Khám & Tiêm phòng",
+  "description": "df",
+  "price": 500000,
+  "status": "active",
+  "image": "/uploads/services/1763651506155-20230208_luu-y-khi-tim-phong-dai-cho-cho-1.jpg",
+  "deleted": false,
+  "rating": 0,
+  "createdBy": {
+    "account_id": null,
+    "createdAt": {
+      "$date": "2025-09-13T02:31:16.474Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "deletedAt": {
+      "$date": "2025-09-14T03:07:26.974Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:19.384Z"
+      },
+      "_id": {
+        "$oid": "68c4da0b431052df7853577a"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:24.484Z"
+      },
+      "_id": {
+        "$oid": "68c4da10431052df78535780"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:25.255Z"
+      },
+      "_id": {
+        "$oid": "68c4da11431052df78535787"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:25.742Z"
+      },
+      "_id": {
+        "$oid": "68c4da11431052df7853578f"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:26.215Z"
+      },
+      "_id": {
+        "$oid": "68c4da12431052df78535798"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:42:26.578Z"
+      },
+      "_id": {
+        "$oid": "68c4da12431052df785357a2"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:09:00.204Z"
+      },
+      "_id": {
+        "$oid": "68c4ee5c9382d631af7e2903"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:09:00.547Z"
+      },
+      "_id": {
+        "$oid": "68c4ee5c9382d631af7e2910"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:47.970Z"
+      },
+      "_id": {
+        "$oid": "68c4f287d567208c3d27863a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:26:48.839Z"
+      },
+      "_id": {
+        "$oid": "68c4f288d567208c3d27864b"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:47:02.605Z"
+      },
+      "_id": {
+        "$oid": "691ee396740dffcbbe1bc13a"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:47:03.333Z"
+      },
+      "_id": {
+        "$oid": "691ee397740dffcbbe1bc14d"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:11:46.160Z"
+      },
+      "_id": {
+        "$oid": "691f2fb2febec550f9fb5bf3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-13T02:31:16.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:11:46.161Z"
+  },
+  "slug": "kham-and-tiem-phong",
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "68c6319005126f45a1ec8296"
+  },
+  "serviceName": "Khách sạn thú cưng",
+  "description": "sds",
+  "price": 10000,
+  "status": "active",
+  "image": "/uploads/services/1763651564916-khach-san-thu-cung-4.jpg",
+  "deleted": false,
+  "rating": 0,
+  "createdBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "createdAt": {
+      "$date": "2025-09-14T03:08:00.496Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-14T03:08:00.499Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T03:08:16.807Z"
+      },
+      "_id": {
+        "$oid": "68c631a005126f45a1ec82cf"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-14T03:08:17.472Z"
+      },
+      "_id": {
+        "$oid": "68c631a105126f45a1ec82d8"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:47:04.443Z"
+      },
+      "_id": {
+        "$oid": "691ee398740dffcbbe1bc161"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:47:05.231Z"
+      },
+      "_id": {
+        "$oid": "691ee399740dffcbbe1bc16c"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:12:44.922Z"
+      },
+      "_id": {
+        "$oid": "691f2fecfebec550f9fb5ca0"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T15:13:02.372Z"
+      },
+      "_id": {
+        "$oid": "691f2ffefebec550f9fb5de5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-14T03:08:00.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:13:02.373Z"
+  },
+  "slug": "khach-san-thu-cung",
+  "__v": 2
+}]

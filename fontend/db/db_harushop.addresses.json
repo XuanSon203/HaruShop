@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "690837d2ace7813511cba3e2"
+  },
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "fullName": "Phạm Xuân Sơn",
+  "phone": "0232132131",
+  "address": "Ninh Bình",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-03T05:04:18.072Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-03T05:04:18.073Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-03T05:04:18.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:22:56.421Z"
+  },
+  "slug": "pham-xuan-son",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690837d9ace7813511cba3eb"
+  },
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "fullName": "ádsa",
+  "phone": "2321321321",
+  "address": "321",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-03T05:04:25.737Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-03T05:04:25.737Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-03T05:04:25.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-03T05:04:25.737Z"
+  },
+  "slug": "adsa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3415febec550f9fba0a4"
+  },
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "fullName": "Phạm Xuân Sơnzxz",
+  "phone": "01234567879sdsd",
+  "address": "Ninh Bình",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-20T15:30:29.566Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-20T15:30:29.567Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-20T15:30:29.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T02:25:08.302Z"
+  },
+  "slug": "pham-xuan-sonzxz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69204734ed42e7bce8a6c74b"
+  },
+  "user_id": {
+    "$oid": "68c15682f87490374370ee02"
+  },
+  "fullName": "dfd",
+  "phone": "0123232334",
+  "address": "df",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T11:04:20.469Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T11:04:20.469Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T11:04:20.475Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:04:20.475Z"
+  },
+  "slug": "dfd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6920539eeda70d302e9e8be5"
+  },
+  "user_id": {
+    "$oid": "68c6982a32da1f8929167d61"
+  },
+  "fullName": "ds",
+  "phone": "0123213",
+  "address": "232",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T11:57:19.000Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T11:57:19.000Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T11:57:19.001Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T11:57:19.001Z"
+  },
+  "slug": "ds",
+  "__v": 0
+}]

@@ -1,0 +1,224 @@
+/* Sidebar mặc định nằm bên trái */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 100vh;
+  max-height: 100vh;
+  background-color: var(--secondary-blue, #0ea5e9);
+  z-index: 1000;
+  transition: left 0.3s ease;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Khi sidebar đóng, trượt sang trái khỏi màn hình */
+.sidebar.closed {
+  left: -260px;
+}
+
+/* Khi sidebar mở */
+.sidebar.open {
+  left: 0;
+}
+
+/* Phần nội dung chính */
+.main-content {
+  transition: margin-left 0.3s ease;
+  padding: 10px;
+  min-height: 100vh;
+  height: auto;
+  background-color: var(--bg-light, #fafafa);
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+/* Khi sidebar mở, content cách trái 260px */
+.main-content.sidebar-open {
+  margin-left: 260px;
+}
+
+/* Khi sidebar đóng, content chiếm full chiều ngang */
+.main-content.sidebar-closed {
+  margin-left: 0;
+}
+
+/* Responsive màn nhỏ */
+@media (max-width: 768px) {
+  .sidebar {
+    left: -260px;
+  }
+  .sidebar.open {
+    left: 0;
+  }
+  .main-content {
+    margin-left: 0 !important; /* luôn full width */
+    max-width: 100vw !important;
+    padding: 0.5rem !important;
+  }
+}
+
+/* Responsive màn trung bình */
+@media (max-width: 1200px) {
+  .main-content {
+    padding: 0.75rem;
+  }
+}
+
+/* Đảm bảo không có overflow ngang */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Container trong admin pages */
+.admin-page-container {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+
+
+.dropdown-menu-dark .dropdown-item:hover {
+  background-color: var(--secondary-blue-dark, #0284c7); /* nền xanh đậm */
+  color: #fff;
+}
+/* Hover background và đổi màu chữ cho Nav.Link */
+.sidebar-nav-link {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.sidebar-nav-link:hover,
+.sidebar-nav-link:focus {
+  background-color: rgba(255, 255, 255, 0.12) !important; /* màu nền khi hover */
+  color: #ffffff !important; /* màu chữ khi hover */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Hover cho NavDropdown.Item */
+.sidebar-nav-dropdown-item {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.sidebar-nav-dropdown-item:hover,
+.sidebar-nav-dropdown-item:focus {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+/* Sidebar text/link colors */
+.sidebar,
+.sidebar a,
+.sidebar .nav-link,
+.sidebar .dropdown-toggle {
+  color: #ffffff !important;
+}
+
+.sidebar .nav-link,
+.sidebar .dropdown-item {
+  border-radius: 8px;
+}
+
+/* Topbar unify with client */
+.admin-topbar {
+  background-color: var(--secondary-blue, #0ea5e9) !important;
+  color: #ffffff !important;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+.admin-topbar .navbar-brand,
+.admin-topbar .nav-link,
+.admin-topbar .dropdown-toggle {
+  color: #ffffff !important;
+}
+
+.admin-topbar .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+}
+
+/* Add subtle separation between topbar and content */
+.main-content > .navbar + * {
+  margin-top: 12px;
+}
+
+/* Keep account dropdown inside viewport (shift inward) */
+.admin-topbar .dropdown-menu {
+  right: 8px !important;
+  left: auto !important;
+  margin-top: 8px !important;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+/* Đảm bảo TopBar không tràn */
+.admin-topbar {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.admin-topbar .container-fluid {
+  max-width: 100% !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* --- Bỏ toàn bộ CSS liên quan đến table / .table-responsive theo yêu cầu --- */
+
+/* Giữ lại các rule liên quan tới card/row/layout, button, responsive mà không đụng đến table */
+
+/* Đảm bảo Card.Body không bị giới hạn chiều cao */
+.main-content .card-body {
+  overflow: visible !important;
+  max-height: none !important;
+}
+
+/* Card và row layout tối ưu */
+.main-content .card {
+  margin-bottom: 1rem;
+}
+
+.admin-page-container .card,
+.main-content .card {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Loại bỏ height constraint trên các cards để hiển thị đầy đủ */
+.main-content .card.h-100 {
+  height: auto !important;
+  min-height: fit-content !important;
+}
+
+/* Đảm bảo Row và Col không có height constraint */
+.main-content .row {
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* Đảm bảo Dashboard và các page khác có đủ không gian */
+.main-content > div {
+  overflow: visible;
+  min-height: auto;
+}
+
+/* Responsive cho các row trong Bootstrap */
+.admin-page-container .row,
+.main-content .row {
+  margin-left: 0;
+  margin-right: 0;
+}

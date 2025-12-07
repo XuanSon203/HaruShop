@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "68c0c7caecd569e11297b187"
+  },
+  "fullName": "Pham Xuan Sơn",
+  "email": "haux4212@gmail.com",
+  "phone": "0379912323",
+  "password": "$2b$10$nQyNqZoNmIT9FOZJJ.xoT.rfo66fG1BMUNkGYjSyyDy0spo7PVmEm",
+  "deleted": false,
+  "role_id": "68a441fa59cd38f3f3b3c488",
+  "token": "09ea8e46b2b523859034235e148c6d710a236bcc90c160d87e33099475905b94",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-10T00:35:22.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T09:05:36.145Z"
+  },
+  "slug": "pham-xuan-son",
+  "__v": 11,
+  "userName": "admin2",
+  "deletedAt": null,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-13T02:20:42.510Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-13T02:20:42.513Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-09-13T02:53:11.336Z"
+      },
+      "_id": {
+        "$oid": "68c4dc97bb2945eeff9219fe"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:16:32.933Z"
+      },
+      "_id": {
+        "$oid": "68c4f02032c74086e5915bb2"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-13T04:16:33.486Z"
+      },
+      "_id": {
+        "$oid": "68c4f02132c74086e5915bbb"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-05T02:23:38.662Z"
+      },
+      "_id": {
+        "$oid": "690ab52a8c06c16710cb6cea"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-05T02:23:39.367Z"
+      },
+      "_id": {
+        "$oid": "690ab52b8c06c16710cb6cf7"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:50:55.584Z"
+      },
+      "_id": {
+        "$oid": "691ffdbfdacd1cdd14b7c72d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T05:50:56.093Z"
+      },
+      "_id": {
+        "$oid": "691ffdc0dacd1cdd14b7c73e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:44:29.766Z"
+      },
+      "_id": {
+        "$oid": "6920509de0548acdb27202e2"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:44:30.345Z"
+      },
+      "_id": {
+        "$oid": "6920509ee0548acdb27202f7"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:44:37.894Z"
+      },
+      "_id": {
+        "$oid": "692050a5e0548acdb272030f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c0ce2629732d22f3eccf2c"
+  },
+  "userName": "admin123",
+  "fullName": "Hau Pham Xuan",
+  "email": "pxuanson203@gmail.com",
+  "phone": "0379912992",
+  "password": "$2b$10$qYClaDu8N99mYr5jYJDJ1uRneTlmaxY5oauDV4aGdsQCgrrgVJBeq",
+  "deleted": false,
+  "role_id": "68a441fa59cd38f3f3b3c488",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-10T01:02:30.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T10:10:44.583Z"
+  },
+  "slug": "hau-pham-xuan-AtUjjfBBC",
+  "__v": 6,
+  "token": "cfd84cecef16dc401bc6a5fa41d82b8d8a6b21bf2ff709ea9227bfcb46e2261a",
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-14T06:40:24.372Z"
+    }
+  },
+  "deletedBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "deletedAt": {
+      "$date": "2025-11-21T11:44:40.537Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T10:32:05.948Z"
+      },
+      "_id": {
+        "$oid": "68cbdfa50e02b4371c0c3c4a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-03T03:58:46.324Z"
+      },
+      "_id": {
+        "$oid": "69082876c0a6c5c46149ff4c"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-03T03:58:47.959Z"
+      },
+      "_id": {
+        "$oid": "69082877c0a6c5c46149ff56"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-03T03:58:51.973Z"
+      },
+      "_id": {
+        "$oid": "6908287bc0a6c5c46149ff61"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T11:44:43.497Z"
+      },
+      "_id": {
+        "$oid": "692050abe0548acdb272035c"
+      }
+    }
+  ],
+  "deletedAt": null
+}]

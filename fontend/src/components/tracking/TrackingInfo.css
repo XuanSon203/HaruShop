@@ -1,0 +1,167 @@
+/* TrackingInfo Component Styles */
+.tracking-info {
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.tracking-info .card-header {
+  background-color: #f8f9fa !important;
+  border-bottom: 1px solid #dee2e6;
+  font-weight: 600;
+}
+
+.tracking-info .card-body {
+  padding: 1rem;
+}
+
+.tracking-info .d-flex.align-items-center {
+  margin-bottom: 0.5rem;
+}
+
+.tracking-info .text-success {
+  color: #198754 !important;
+}
+
+.tracking-info .text-warning {
+  color: #fd7e14 !important;
+}
+
+.tracking-info .text-danger {
+  color: #dc3545 !important;
+}
+
+.tracking-info .text-muted {
+  color: #6c757d !important;
+  font-size: 0.875rem;
+}
+
+.tracking-info .small {
+  font-size: 0.75rem;
+}
+
+.tracking-info details {
+  margin-top: 0.75rem;
+}
+
+.tracking-info summary {
+  cursor: pointer;
+  color: #0d6efd;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.tracking-info summary:hover {
+  color: #0a58ca;
+}
+
+.tracking-info .border-start {
+  border-left: 2px solid #e9ecef !important;
+  padding-left: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+/* TrackingBadge Component Styles */
+.tracking-badge {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.tracking-badge .badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.tracking-badge .badge:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tracking-badge .badge.bg-success {
+  background-color: #198754 !important;
+}
+
+.tracking-badge .badge.bg-warning {
+  background-color: #fd7e14 !important;
+  color: #000 !important;
+}
+
+.tracking-badge .badge.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+.tracking-badge .badge.bg-info {
+  background-color: #0dcaf0 !important;
+  color: #000 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .tracking-info .row > [class*="col-"] {
+    margin-bottom: 1rem;
+  }
+  
+  .tracking-badge {
+    justify-content: center;
+  }
+}
+
+/* Animation for tooltip */
+.tooltip {
+  font-size: 0.875rem;
+}
+
+.tooltip .tooltip-inner {
+  background-color: #212529;
+  color: #fff;
+  border-radius: 0.375rem;
+  padding: 0.5rem 0.75rem;
+  max-width: 200px;
+}
+
+/* Custom cursor for interactive elements */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Badge with count styling */
+.tracking-badge .badge:has-text("(") {
+  position: relative;
+}
+
+/* Hover effects for badges */
+.tracking-badge .badge:hover {
+  opacity: 0.9;
+}
+
+/* Icon spacing in badges */
+.tracking-badge .badge svg {
+  margin-right: 0.25rem;
+}
+
+/* Status indicators */
+.status-indicator {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
+
+.status-indicator.active {
+  background-color: #198754;
+}
+
+.status-indicator.inactive {
+  background-color: #dc3545;
+}
+
+.status-indicator.pending {
+  background-color: #ffc107;
+}

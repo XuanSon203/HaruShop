@@ -1,0 +1,438 @@
+[{
+  "_id": {
+    "$oid": "68c0de1cae24435f34b3c6af"
+  },
+  "name": "Giam giá 50%",
+  "code": "HRD981456",
+  "description": "êwrew",
+  "status": "active",
+  "value": 50,
+  "type": "percent",
+  "timeSlots": [
+    {
+      "date": "2025-11-22",
+      "startTime": "03:00",
+      "endTime": "23:30",
+      "_id": {
+        "$oid": "68c0de1cae24435f34b3c6b0"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T02:10:36.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T08:51:44.339Z"
+  },
+  "slug": "giam-gia-50",
+  "__v": 30,
+  "deletedAt": null,
+  "conditions": {
+    "applyOncePerUser": false,
+    "minOrderAmount": 0
+  },
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-18T09:27:51.182Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-18T09:27:51.182Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:27:51.187Z"
+      },
+      "_id": {
+        "$oid": "68cbd097ea7b87082439dda6"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:38:36.832Z"
+      },
+      "_id": {
+        "$oid": "68cbd31c844672c6db4fc8c6"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-10T04:01:20.799Z"
+      },
+      "_id": {
+        "$oid": "691163903433b8b96bb1138b"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:01:23.084Z"
+      },
+      "_id": {
+        "$oid": "691163933433b8b96bb1139e"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:01:23.997Z"
+      },
+      "_id": {
+        "$oid": "691163933433b8b96bb113ad"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:16.445Z"
+      },
+      "_id": {
+        "$oid": "691164b845b48775662de817"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:21.985Z"
+      },
+      "_id": {
+        "$oid": "691164bd45b48775662de83d"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:24.716Z"
+      },
+      "_id": {
+        "$oid": "691164c045b48775662de84f"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:25.283Z"
+      },
+      "_id": {
+        "$oid": "691164c145b48775662de866"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:49.344Z"
+      },
+      "_id": {
+        "$oid": "691164d945b48775662de87a"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:06:49.932Z"
+      },
+      "_id": {
+        "$oid": "691164d945b48775662de893"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-10T04:07:08.871Z"
+      },
+      "_id": {
+        "$oid": "691164ec1be161aaf854a815"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-10T04:35:03.601Z"
+      },
+      "_id": {
+        "$oid": "69116b77ae4346663b22c34b"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-20T03:05:04.958Z"
+      },
+      "_id": {
+        "$oid": "691e8560ede398cc8d863eb1"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:49:59.497Z"
+      },
+      "_id": {
+        "$oid": "691ee447740dffcbbe1bca6d"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:00.390Z"
+      },
+      "_id": {
+        "$oid": "691ee448740dffcbbe1bca86"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:01.749Z"
+      },
+      "_id": {
+        "$oid": "691ee449740dffcbbe1bcaa4"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:03.030Z"
+      },
+      "_id": {
+        "$oid": "691ee44b740dffcbbe1bcabf"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:03.879Z"
+      },
+      "_id": {
+        "$oid": "691ee44b740dffcbbe1bcadf"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:22.203Z"
+      },
+      "_id": {
+        "$oid": "691ee45e740dffcbbe1bcf9f"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:24.616Z"
+      },
+      "_id": {
+        "$oid": "691ee460740dffcbbe1bcfe9"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-20T09:50:25.161Z"
+      },
+      "_id": {
+        "$oid": "691ee461740dffcbbe1bd008"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T13:14:58.218Z"
+      },
+      "_id": {
+        "$oid": "692065d28f55ae4586dd5b6a"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-21T13:15:00.632Z"
+      },
+      "_id": {
+        "$oid": "692065d48f55ae4586dd5bbd"
+      }
+    },
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T14:00:42.385Z"
+      },
+      "_id": {
+        "$oid": "6920708a299913e7a4a139ab"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:33:02.914Z"
+      },
+      "_id": {
+        "$oid": "6920781ef1a0b96fe0e2fcd3"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:33:14.907Z"
+      },
+      "_id": {
+        "$oid": "6920782af1a0b96fe0e2fe1c"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-21T14:33:48.179Z"
+      },
+      "_id": {
+        "$oid": "6920784cf1a0b96fe0e302e3"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-22T08:51:22.377Z"
+      },
+      "_id": {
+        "$oid": "6921798a080520dfc67c7361"
+      }
+    },
+    {
+      "account_id": "68c0ce2629732d22f3eccf2c",
+      "updatedAt": {
+        "$date": "2025-11-22T08:51:44.332Z"
+      },
+      "_id": {
+        "$oid": "692179a0080520dfc67c73d2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c165b6ea76c7069a9bbf09"
+  },
+  "name": "Giảm giá 10%",
+  "code": "HRD302468",
+  "description": "sad",
+  "status": "inactive",
+  "value": 10,
+  "type": "percent",
+  "timeSlots": [
+    {
+      "date": "2025-09-18",
+      "startTime": "17:00",
+      "endTime": "20:30",
+      "_id": {
+        "$oid": "68c165b6ea76c7069a9bbf0a"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2025-09-10T11:49:10.972Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T04:01:20.821Z"
+  },
+  "slug": "giam-gia-10",
+  "__v": 2,
+  "conditions": {
+    "applyOncePerUser": false,
+    "minOrderAmount": 0
+  },
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-18T09:30:27.640Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-18T09:30:27.640Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T09:30:27.646Z"
+      },
+      "_id": {
+        "$oid": "68cbd133300d72e6d479427a"
+      }
+    },
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-10T04:01:20.804Z"
+      },
+      "_id": {
+        "$oid": "691163903433b8b96bb1138c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d5f8908ec519b4fef0132d"
+  },
+  "name": "Giảm 10%",
+  "code": "HRD711528",
+  "description": "sd",
+  "status": "inactive",
+  "value": 10,
+  "conditions": {
+    "minOrderAmount": 0,
+    "maxDiscount": null,
+    "applyOncePerUser": false
+  },
+  "type": "percent",
+  "timeSlots": [
+    {
+      "date": "2025-09-26",
+      "startTime": "09:20",
+      "endTime": "12:18",
+      "_id": {
+        "$oid": "68d5f8908ec519b4fef0132e"
+      }
+    }
+  ],
+  "createdBy": {
+    "account_id": "68c0c7caecd569e11297b187",
+    "createdAt": {
+      "$date": "2025-09-26T02:21:04.222Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-26T02:21:04.235Z"
+    }
+  },
+  "deleted": false,
+  "updatedBy": [
+    {
+      "account_id": null,
+      "updatedAt": {
+        "$date": "2025-11-10T04:01:20.806Z"
+      },
+      "_id": {
+        "$oid": "691163903433b8b96bb1138d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T02:21:04.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T04:01:20.821Z"
+  },
+  "slug": "giam-10",
+  "__v": 1
+}]

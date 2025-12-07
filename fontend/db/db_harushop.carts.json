@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "68c2af29b7b3b08cbb7d16fd"
+  },
+  "user_id": "68bef99e3ff8ee209dab56d8",
+  "products": [
+    {
+      "product_id": "68c0d750d0bc75af3b466688",
+      "category_id": "68c0f85d78bd9964f30798f3",
+      "quantity": 1,
+      "price_original": 1000,
+      "discount_percent": 50000,
+      "price_after_discount": 0,
+      "selected": true,
+      "_id": {
+        "$oid": "68c2af30b7b3b08cbb7d1717"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-11T11:14:49.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:14:56.514Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "68c6a00c5b88f474d0674f37"
+  },
+  "user_id": "68c1a5665f3ebc7f59814d8c",
+  "products": [],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-14T10:59:24.385Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-14T10:59:24.386Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-09-14T10:59:24.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T10:59:24.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee0de929c72738fb9fcf6"
+  },
+  "user_id": "691ee0ca929c72738fb9fb6b",
+  "products": [],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-20T09:35:26.763Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-20T09:35:26.763Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-20T09:35:26.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T09:35:26.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ffae0dacd1cdd14b7a751"
+  },
+  "user_id": "691ffadbdacd1cdd14b7a464",
+  "products": [],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T05:38:40.540Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T05:38:40.541Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T05:38:40.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T05:43:39.974Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "69203483c9f0905092720bbf"
+  },
+  "user_id": "6920347bc9f0905092720b7f",
+  "products": [
+    {
+      "product_id": "691f4ae6fcf382e24ac2e9fe",
+      "category_id": "68c0f75c309ccdb6b303493c",
+      "quantity": 1,
+      "price_original": 231,
+      "discount_percent": 0,
+      "price_after_discount": 0,
+      "selected": true,
+      "_id": {
+        "$oid": "692035bac9f09050927212d7"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T09:44:35.531Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T09:44:35.531Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T09:44:35.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T09:49:46.647Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69218c7bb3831cd511b82615"
+  },
+  "user_id": "68c15682f87490374370ee02",
+  "products": [],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-22T10:12:11.879Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-22T10:12:11.879Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-22T10:12:11.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T03:20:10.166Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "69218d69b3831cd511b83182"
+  },
+  "user_id": "68c6982a32da1f8929167d61",
+  "products": [
+    {
+      "product_id": "68c0d6928acc6e29e71dc87c",
+      "category_id": "68c0f768309ccdb6b3034946",
+      "quantity": 1,
+      "price_original": 200000,
+      "discount_percent": 50,
+      "price_after_discount": 100000,
+      "selected": true,
+      "_id": {
+        "$oid": "6922707494e4c90369ccad70"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-22T10:16:09.026Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-22T10:16:09.027Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-22T10:16:09.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T02:24:52.069Z"
+  },
+  "__v": 1
+}]

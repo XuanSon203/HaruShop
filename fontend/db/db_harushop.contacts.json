@@ -1,0 +1,202 @@
+[{
+  "_id": {
+    "$oid": "68cb83a95c23ad3c204182e1"
+  },
+  "name": "Hau Pham Xuan",
+  "email": "pxuanson203@gmail.com",
+  "phone": "0379912992",
+  "subject": "complaint",
+  "message": "jsds sadsa sadsa asdsa",
+  "status": "replied",
+  "ip_address": "::1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-18T03:59:37.272Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-18T03:59:37.274Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T04:17:49.967Z"
+      },
+      "_id": {
+        "$oid": "68cb87ed4eb0530e9b310747"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-18T03:59:37.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T04:17:49.971Z"
+  },
+  "__v": 0,
+  "replied_at": {
+    "$date": "2025-09-18T04:17:49.967Z"
+  },
+  "reply_message": "ok toi da giu bn"
+},
+{
+  "_id": {
+    "$oid": "68cb88e586ef662e6464379d"
+  },
+  "name": "Pham Xuan Sơn",
+  "email": "haux421@gmail.com",
+  "phone": "0379912323",
+  "subject": "general",
+  "message": "jknkjguyuh",
+  "status": "replied",
+  "ip_address": "::1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-09-18T04:21:57.366Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-09-18T04:21:57.367Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-09-18T04:22:19.656Z"
+      },
+      "_id": {
+        "$oid": "68cb88fb86ef662e64643874"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-18T04:21:57.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T04:22:19.657Z"
+  },
+  "__v": 0,
+  "replied_at": {
+    "$date": "2025-09-18T04:22:19.656Z"
+  },
+  "reply_message": "njbjghvgvgfcgcchg"
+},
+{
+  "_id": {
+    "$oid": "6920661f8f55ae4586dd63d3"
+  },
+  "name": "Xuan Son Pham",
+  "email": "alu22k@gmail.com",
+  "phone": "02321321322",
+  "subject": "service",
+  "message": "dsdss dsadbsakjdjskadbsak",
+  "status": "replied",
+  "ip_address": "127.0.0.1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T13:16:15.097Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T13:16:15.097Z"
+    }
+  },
+  "updatedBy": [
+    {
+      "account_id": "68c0c7caecd569e11297b187",
+      "updatedAt": {
+        "$date": "2025-11-21T13:16:38.087Z"
+      },
+      "_id": {
+        "$oid": "692066368f55ae4586dd64ba"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-11-21T13:16:15.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:16:38.088Z"
+  },
+  "__v": 0,
+  "replied_at": {
+    "$date": "2025-11-21T13:16:38.087Z"
+  },
+  "reply_message": "Dạ em há sdsa sd"
+},
+{
+  "_id": {
+    "$oid": "692066ab81ef7f639e8d47c2"
+  },
+  "name": "Xuan Son Pham",
+  "email": "alu22k@gmail.com",
+  "phone": "02321321322",
+  "subject": "service",
+  "message": "sdsaddhjsadbsajhdsbadsa",
+  "status": "pending",
+  "ip_address": "127.0.0.1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T13:18:35.197Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T13:18:35.198Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T13:18:35.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:18:35.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69206946f31ba5bd2d724d7f"
+  },
+  "name": "Hau Pham Xuan",
+  "email": "pxuanson203@gmail.com",
+  "phone": "0379912992",
+  "subject": "product",
+  "message": "sdsdsdssdsadsadsads",
+  "status": "pending",
+  "ip_address": "127.0.0.1",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+  "deleted": false,
+  "createdBy": {
+    "createdAt": {
+      "$date": "2025-11-21T13:29:42.889Z"
+    }
+  },
+  "deletedBy": {
+    "deletedAt": {
+      "$date": "2025-11-21T13:29:42.892Z"
+    }
+  },
+  "updatedBy": [],
+  "createdAt": {
+    "$date": "2025-11-21T13:29:42.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T13:29:42.911Z"
+  },
+  "__v": 0
+}]

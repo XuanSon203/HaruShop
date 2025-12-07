@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "68ecc2bdc7a41cffff4f3112"
+  },
+  "name": "J&T",
+  "price": 0,
+  "phone": "03799129923",
+  "email": "j&t@gmail.com",
+  "address": [
+    "sdasdsa"
+  ],
+  "estimated_delivery_time": "2-3 days",
+  "created_at": {
+    "$date": "2025-10-13T09:13:33.912Z"
+  },
+  "__v": 0,
+  "methods": [
+    {
+      "name": "Vận chuyển hỏa tốc",
+      "price": 3000,
+      "estimated_time": "1",
+      "_id": {
+        "$oid": "690b5b0c1ed6dd352e89359f"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2025-11-05T14:11:24.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68eccc1da2e91f5838fa515b"
+  },
+  "name": "Shopppe",
+  "price": 0,
+  "phone": "0123456789",
+  "email": "shopppe@gmail.com",
+  "address": [
+    "dsd"
+  ],
+  "estimated_delivery_time": "2-3 days",
+  "created_at": {
+    "$date": "2025-10-13T09:53:33.862Z"
+  },
+  "__v": 0,
+  "methods": [
+    {
+      "name": "sdsad",
+      "price": 1000,
+      "estimated_time": "3",
+      "_id": {
+        "$oid": "690b5b011ed6dd352e89358b"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2025-11-05T14:11:13.316Z"
+  }
+}]
